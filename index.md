@@ -17,7 +17,7 @@ This workshop aims to bring together AI/Deep Learning specialists on one hand an
 ## Submission format
 Submission should be between two and six pages in the ACM format to the following address:
  
-https://easychair.org/conferences/?conf=scai17.
+https://easychair.org/conferences/?conf=scai17
  
 We explicitly seek the following types of papers
   * conceptual papers, proposals for panel discussion 
@@ -36,5 +36,13 @@ Julia Kiseleva, *UserSat.com & University of Amsterdam*, Amsterdam
 
 Alexey Borisov, *Yandex & University of Amsterdam*, Moscow & Amsterdam
 
-# Workshop Schedule
+## Program Committie
+
+# Workshop Format
+  * Invited Speakers and Oral Presentation
+  * Panel Disscusions. You can send us your suggestions 
+  * Breakhout Session to plan roadmap for Conversational AI. We will send more information for participants
+  * Poster Session 
+
+## Workshop Schedule
 TBA
