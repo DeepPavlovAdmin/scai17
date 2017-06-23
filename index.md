@@ -17,12 +17,12 @@ This workshop aims to bring together AI/Deep Learning specialists on one hand an
 ## Submission format
 Submission should be between two and six pages in the ACM format to the following address:
  
-https://easychair.org/conferences/?conf=scai17
+[https://easychair.org/conferences/?conf=scai17](https://easychair.org/conferences/?conf=scai17)
  
 We explicitly seek the following types of papers
   * conceptual papers, proposals for panel discussion 
   * early experimental results
-  * preliminary results of http://convai.io competition
+  * preliminary results of [convai.io](http://convai.io) competition
   
 # Important Dates
 TBA
