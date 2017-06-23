@@ -15,11 +15,15 @@ This workshop aims to bring together AI/Deep Learning specialists on one hand an
   * Voice as input (voice interactions with a personal assistant: how it will affect existing models?)
   
 ## Submission format
-Submission should be between two and six pages in the ACM format. We explicitly seek the following types of papers
+Submission should be between two and six pages in the ACM format to the following address:
+ 
+https://easychair.org/conferences/?conf=scai17.
+ 
+We explicitly seek the following types of papers
   * conceptual papers, proposals for panel discussion 
   * early experimental results
   * preliminary results of http://convai.io competition
-
+  
 # Important Dates
 TBA
 
