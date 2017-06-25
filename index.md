@@ -32,7 +32,7 @@ Mikhail Burtsev, *MIPT*, Moscow
 
 Aleksandr Chuklin, *Google Research Europe*, Zurich
 
-Julia Kiseleva, *UserSat.com & University of Amsterdam*, Amsterdam
+[Julia Kiseleva](http://juliakiseleva.com), *UserSat.com & University of Amsterdam*, Amsterdam
 
 Alexey Borisov, *Yandex & University of Amsterdam*, Moscow & Amsterdam
 
