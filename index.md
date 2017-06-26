@@ -25,7 +25,11 @@ We explicitly seek the following types of papers
   * preliminary results of [convai.io](http://convai.io) competition
   
 # Important Dates
-TBA
+  * There will be two series of submissions:
+    * Series 1: Submission Deadline - July 15 and Notification - August 1
+    * Series 2: Submission Deadline - August 15 and Notification - September 1
+  * Deadline for Camera ready version - September 15 
+  * The workshop - October 1
 
 # Organizers
 Mikhail Burtsev, *MIPT*, Moscow
