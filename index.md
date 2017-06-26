@@ -41,6 +41,7 @@ Aleksandr Chuklin, *Google Research Europe*, Zurich
 Alexey Borisov, *Yandex & University of Amsterdam*, Moscow & Amsterdam
 
 ## Program Committie
+TBA
 
 # Workshop Format
   * Invited Speakers and Oral Presentation
