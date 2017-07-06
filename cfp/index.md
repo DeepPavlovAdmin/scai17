@@ -15,8 +15,8 @@ There is a gradual shift towards searching and presenting the information in a c
 
 ## TOPICS OF INTERESTS
 - Surfacing search results in form of a dialogue (how to present information that search gives us in a form of a dialogue and ensure smooth transition between dialog turns? Which model to use for dialog-state tracking?)
-- Evaluation of Search-Oriented Conversational AI -- From Conversational AI to Personal Assistants (how to maintain a stable and consistent assistant behaviour?)
-- The role of personalization for Conversational AI and for its evaluation (users are different — can we personalise their experience?)
+- Evaluation of Search-Oriented Conversational AI -- From Conversational AI to Personal Assistants (how to maintain a stable and consistent assistant behavior?)
+- The role of personalization for Conversational AI and for its evaluation (users are different — can we personalize their experience?)
 - Deep Learning for Conversational AI
 - (Deep) Reinforcement Learning for Conversational AI
 - Voice as Input (when we consider not only text input, but also voice interactions with the agent — how will it affect existing models?)
