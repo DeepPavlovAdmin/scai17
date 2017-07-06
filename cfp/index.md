@@ -30,12 +30,12 @@ There will be two series of submissions:
 Deadline for camera-ready version - September 15
 
 ## SUBMISSIONS
-Submission should be between two and six pages in the ACM format to the following address:
-https://easychair.org/conferences/?conf=scai17
+Submission should be between two and six pages in the ACM format to the following address: <https://easychair.org/conferences/?conf=scai17>.
+
 We explicitly seek the following types of papers:
-early experimental results
-preliminary results of convai.io competition
-conceptual papers featuring proposals for the panel discussion and breakout sessions
+- early experimental results
+- preliminary results of convai.io competition
+- conceptual papers featuring proposals for the panel discussion and breakout sessions
 
 ## ORGANIZERS
 - Mikhail Burtsev (MIPT)
