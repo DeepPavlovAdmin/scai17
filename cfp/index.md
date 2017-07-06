@@ -1,7 +1,9 @@
 # CALL FOR PAPERS
 
 The First International Workshop on Search-Oriented Conversational AI (SCAI)
-https://deeppavlov.github.io/scai17
+
+<https://deeppavlov.github.io/scai17>
+
 [@scai\_workshop](https://twitter.com/scai_workshop)
 
 at ICTIR 2017, Amsterdam, the Netherlands, October 1, 2017.
