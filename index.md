@@ -1,6 +1,6 @@
 # About
 There is a gradual shift towards searching and  presenting the information in a conversational form. Chatbots, personal assistants in our phones and eyes-free devices are being used increasingly more for different purposes, including information retrieval and exploration. On the other side, information retrieval empowers dialogue systems to answer questions and to get context for assisting user in her tasks.  With the recent success of deep learning in different areas of natural language processing, this appears to be the right foundation to power search conversationalization.
-While there is a significant progress in building goal-oriented dialogue systems and open-domain chit-chat bots, more remains to be done for theory and practice of conversation-based search and search-based dialogues.
+While there is significant progress in building goal-oriented dialogue systems and open-domain chit-chat bots, more remains to be done for theory and practice of conversation-based search and search-based dialogues.
 
 This workshop aims to bring together AI/Deep Learning specialists on one hand and search/IR specialists on the other hand to lay the ground for search-oriented conversational AI and establish future directions and collaborations.
 
@@ -8,7 +8,7 @@ This workshop aims to bring together AI/Deep Learning specialists on one hand an
   *  Surfacing search results in form of a dialogue (how to present information that search gives us in a form of a dialogue? Which model to use for dialogue-state tracking?)
   * Evaluation of search-oriented conversational AI: despite early attempts at
  computing dialogue system's quality in a scalable way
-  * From conversational AI to personal assistants (how to maintain a stable and consistent assistant behaviour)
+  * From conversational AI to personal assistants (how to maintain a stable and consistent assistant behavior)
   *  The role of personalization for conversational AI and for its evaluation (users are different, can we personalize their experience?)
   * Deep Learning for conversational AI
   *  (Deep) Reinforcement Learning for conversational AI 
@@ -40,13 +40,13 @@ Aleksandr Chuklin, *Google Research Europe*, Zurich
 
 Alexey Borisov, *Yandex & University of Amsterdam*, Moscow & Amsterdam
 
-## Program Committie
+## Program Committee
 TBA
 
 # Workshop Format
   * Invited Speakers and Oral Presentation
-  * Panel Disscusions. You can send us your suggestions 
-  * Breakhout Session to plan roadmap for Conversational AI. We will send more information for participants
+  * Panel Discussion. You can send us your suggestions 
+  * Breakout Session to plan a roadmap for Conversational AI. We will send more information for participants
   * Poster Session 
 
 ## Workshop Schedule
