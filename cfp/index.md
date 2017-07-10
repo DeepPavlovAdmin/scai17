@@ -2,7 +2,7 @@
 
 The First International Workshop on Search-Oriented Conversational AI (SCAI)
 
-<https://deeppavlov.github.io/scai17>
+<http://scai.info>
 
 [@scai\_workshop](https://twitter.com/scai_workshop)
 
