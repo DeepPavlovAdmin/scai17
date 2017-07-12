@@ -34,11 +34,11 @@ We explicitly seek the following types of papers
 # Organizers
 Mikhail Burtsev, *MIPT*, Moscow
 
-Aleksandr Chuklin, *Google Research Europe*, Zurich
+Aleksandr Chuklin, *Google Research Europe*, Zürich
 
 [Julia Kiseleva](http://juliakiseleva.com), *UserSat.com & University of Amsterdam*, Amsterdam
 
-Alexey Borisov, *Yandex & University of Amsterdam*, Moscow & Amsterdam
+Alexey Borisov, *Yandex & University of Amsterdam*, Moscow
 
 ## Program Committee
 TBA
@@ -48,6 +48,15 @@ TBA
   * Panel Discussion. You can send us your suggestions 
   * Breakout Session to plan a roadmap for Conversational AI. We will send more information for participants
   * Poster Session 
+
+## Invited Speakers
+ 
+  * [Dilek Hakkani-Tür](https://research.google.com/pubs/104927.html), *Google Research*, Mountain View
+  * [Filip Radlinski](http://www.radlinski.org/), *Google Research*, London
+  * ...more to be announced soon
+
+
+
 
 ## Workshop Schedule
 TBA
