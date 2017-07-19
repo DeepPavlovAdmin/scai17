@@ -26,8 +26,8 @@ We explicitly seek the following types of papers
   
 # Important Dates
   * There will be two series of submissions:
-    * Series 1: Submission Deadline - July 15 and Notification - August 1
-    * Series 2: Submission Deadline - August 15 and Notification - September 1
+    * Series 1: ~~Submission Deadline - July 15 and~~ Notification - August 1
+    * Series 2: Submission Deadline - **August 15** and Notification - September 1
   * Deadline for Camera ready version - September 15 
   * The workshop - October 1
 
