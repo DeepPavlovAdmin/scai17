@@ -60,5 +60,5 @@ TBA
 ## Workshop Schedule
 TBA
 
-## SPONSORS
+## Sponsors
 <a href="https://google.com"><img src="GoogleLogo.png"></a>
