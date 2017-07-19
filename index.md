@@ -59,4 +59,4 @@ TBA
 TBA
 
 ## SPONSORS
-<a href="https://google.com"><img src="GoogleLogo.ai"></a>
+<a href="https://google.com"><img src="GoogleLogo.png"></a>
