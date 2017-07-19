@@ -11,24 +11,24 @@ This workshop aims to bring together AI/Deep Learning specialists on one hand an
   * From conversational AI to personal assistants (how to maintain a stable and consistent assistant behavior)
   *  The role of personalization for conversational AI and for its evaluation (users are different, can we personalize their experience?)
   * Deep Learning for conversational AI
-  *  (Deep) Reinforcement Learning for conversational AI 
+  *  (Deep) Reinforcement Learning for conversational AI
   * Voice as input (voice interactions with a personal assistant: how it will affect existing models?)
-  
+
 ## Submission format
 Submission should be between two and six pages in the ACM format to the following address:
- 
+
 [https://easychair.org/conferences/?conf=scai17](https://easychair.org/conferences/?conf=scai17)
- 
+
 We explicitly seek the following types of papers
-  * conceptual papers, proposals for panel discussion 
+  * conceptual papers, proposals for panel discussion
   * early experimental results
   * preliminary results of [convai.io](http://convai.io) competition
-  
+
 # Important Dates
   * There will be two series of submissions:
     * Series 1: ~~Submission Deadline - July 15 and~~ Notification - August 1
     * Series 2: Submission Deadline - **August 15** and Notification - September 1
-  * Deadline for Camera ready version - September 15 
+  * Deadline for Camera ready version - September 15
   * The workshop - October 1
 
 # Organizers
@@ -47,17 +47,13 @@ TBA
   * Invited Speakers and Oral Presentation
   * Panel Discussion. You can send us your suggestions 
   * Breakout Session to plan a roadmap for Conversational AI. We will send more information for participants
-  * Poster Session 
+  * Poster Session
 
 ## Invited Speakers
- 
   * [Dilek Hakkani-Tür](https://research.google.com/pubs/104927.html), *Google Research*, Mountain View
   * [Filip Radlinski](http://www.radlinski.org/), *Google Research*, London
   * [Michele Galley](https://www.microsoft.com/en-us/research/people/mgalley/), *Microsoft Research*, Redmond
   * ...stay tuned for more
-
-
-
 
 ## Workshop Schedule
 TBA
