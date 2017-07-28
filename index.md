@@ -55,7 +55,7 @@ TBA
   * [Dilek Hakkani-Tür](https://research.google.com/pubs/104927.html), *Google Research*, Mountain View
   * [Filip Radlinski](http://www.radlinski.org/), *Google Research*, London
   * [Michele Galley](https://www.microsoft.com/en-us/research/people/mgalley/), *Microsoft Research*, Redmond
-  * ...stay tuned for more
+  * [Fabrizio Silvestri](https://www.linkedin.com/in/fabrizio-silvestri-a6b0391/), *Facebook*, London
 
 ## Workshop Schedule
 TBA
