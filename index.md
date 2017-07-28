@@ -40,7 +40,11 @@ We explicitly seek the following types of papers
   * [Alexey Borisov](https://scholar.google.com/citations?user=i83g0E0AAAAJ), *Yandex & University of Amsterdam*, Moscow
 
 ## Program Committee
-TBA
+  * Mostafa Dehghani, University of Amsterdam
+  * Jaap Kamps, University of Amsterdam
+  * Tom Kenter, University of Amsterdam
+  * Scott Roy, Google
+  * Ryen W. White, Microsoft Research
 
 # Workshop Format
   * Invited Speakers and Oral Presentation
