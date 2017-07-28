@@ -34,13 +34,10 @@ We explicitly seek the following types of papers
   * The workshop - October 1
 
 # Organizers
-Mikhail Burtsev, *MIPT*, Moscow
-
-Aleksandr Chuklin, *Google Research Europe*, Zürich
-
-[Julia Kiseleva](http://juliakiseleva.com), *UserSat.com & University of Amsterdam*, Amsterdam
-
-Alexey Borisov, *Yandex & University of Amsterdam*, Moscow
+  * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
+  * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google Research Europe*, Zürich
+  * [Julia Kiseleva](http://juliakiseleva.com), *UserSat.com & University of Amsterdam*, Amsterdam
+  * [Alexey Borisov](https://scholar.google.com/citations?user=i83g0E0AAAAJ), *Yandex & University of Amsterdam*, Moscow
 
 ## Program Committee
 TBA
