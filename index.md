@@ -48,7 +48,7 @@ We explicitly seek the following types of papers
 
 # Workshop Format
   * Invited Speakers and Oral Presentation
-  * Panel Discussion. You can send us your suggestions 
+  * Panel Discussion. You can send us your suggestions [here](https://app.sli.do/event/i0line8v).
   * Breakout Session to plan a roadmap for Conversational AI. We will send more information for participants
   * Poster Session
 
