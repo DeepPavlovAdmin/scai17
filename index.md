@@ -1,4 +1,4 @@
-> We are happy to get support from [Google](https://google.com) for student travel grants! Share your research! [Submission](http://scai.info/cfp) deadline is August 15.
+> We are happy to get support from [Facebook](https://facebook.com) and [Google](https://google.com) for student travel grants! Share your research! [Submission](http://scai.info/cfp) deadline is August 15.
 
 # About
 There is a gradual shift towards searching and  presenting the information in a conversational form. Chatbots, personal assistants in our phones and eyes-free devices are being used increasingly more for different purposes, including information retrieval and exploration. On the other side, information retrieval empowers dialogue systems to answer questions and to get context for assisting user in her tasks.  With the recent success of deep learning in different areas of natural language processing, this appears to be the right foundation to power search conversationalization.
