@@ -25,7 +25,7 @@ There is a gradual shift towards searching and presenting the information in a c
 ## IMPORTANT DATES
 There will be two series of submissions:
 - ~~Series 1: Submission Deadline - July 15 and Notification - August 1~~
-- Series 2: Submission Deadline - **August 15** and Notification - September 1
+- Series 2: Submission Deadline - ~~August 15~~ **August 22, 23:59** [anywhere in the world](https://www.timeanddate.com/worldclock/timezone/utc-12) and Notification - September 1
 
 Deadline for camera-ready version - September 15
 
