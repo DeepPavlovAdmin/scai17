@@ -1,4 +1,4 @@
-> We are happy to get support from [Microsof](https://www.microsoft.com/), [Facebook](https://facebook.com) and [Google](https://google.com) for student travel grants! Share your research! [Submission](http://scai.info/cfp) deadline is August 15.
+> We are happy to get support from [Microsoft](https://www.microsoft.com/), [Facebook](https://facebook.com) and [Google](https://google.com) for student travel grants! Share your research! [Submission](http://scai.info/cfp) deadline is August 15.
 
 # About
 There is a gradual shift towards searching and  presenting the information in a conversational form. Chatbots, personal assistants in our phones and eyes-free devices are being used increasingly more for different purposes, including information retrieval and exploration. On the other side, information retrieval empowers dialogue systems to answer questions and to get context for assisting user in her tasks.  With the recent success of deep learning in different areas of natural language processing, this appears to be the right foundation to power search conversationalization.
@@ -62,11 +62,12 @@ We explicitly seek the following types of papers
   * [Filip Radlinski](http://www.radlinski.org/), *Google Research*, London
   * [Michele Galley](https://www.microsoft.com/en-us/research/people/mgalley/), *Microsoft Research*, Redmond
   * [Fabrizio Silvestri](https://www.linkedin.com/in/fabrizio-silvestri-a6b0391/), *Facebook*, London
+  * [Frode Sormo](https://www.linkedin.com/in/frode-s%C3%B8rmo-31b28ba/), *Amazon Alexa*, London
 
 ## Workshop Schedule
 TBA
 
 ## Sponsors
-<a href="https://facebook.com"><img src="microsoft_logo.png"></a>
+<a href="https://facebook.com"><img src="microsoft_logo.jpg"></a>
 <a href="https://facebook.com"><img src="FacebookLogo.png"></a>
 <a href="https://google.com"><img src="GoogleLogo.png"></a>
