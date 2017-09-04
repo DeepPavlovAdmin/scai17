@@ -62,5 +62,6 @@ We explicitly seek the following types of papers
 TBA
 
 ## Sponsors
+<a href="https://facebook.com"><img src="microsoft_logo.png"></a>
 <a href="https://facebook.com"><img src="FacebookLogo.png"></a>
 <a href="https://google.com"><img src="GoogleLogo.png"></a>
