@@ -66,11 +66,11 @@ We explicitly seek the following types of papers
 
 ## Industry Speakers
   * "Conversational/Multiturn Question Understanding"
-    Gary Ren, Xiaochuan Ni, Manish Malik, Qifa Ke
-    Microsoft AI and Research
+    by Gary Ren, Xiaochuan Ni, Manish Malik, Qifa Ke
+    from Microsoft AI and Research
   * "Incorporating Hard Negative Mining into Retrieval-Based Conversation System"
-    Nikita Smetanin
-    Replika
+    by Nikita Smetanin
+    from Replika
 
 
 ## Workshop Schedule
