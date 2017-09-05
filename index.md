@@ -64,6 +64,15 @@ We explicitly seek the following types of papers
   * [Fabrizio Silvestri](https://www.linkedin.com/in/fabrizio-silvestri-a6b0391/), *Facebook*, London
   * [Frode Sormo](https://www.linkedin.com/in/frode-s%C3%B8rmo-31b28ba/), *Amazon Alexa*, London
 
+## Industry Speakers
+  * "Conversational/Multiturn Question Understanding"
+    Gary Ren, Xiaochuan Ni, Manish Malik, Qifa Ke
+    Microsoft AI and Research
+  * "Incorporating Hard Negative Mining into Retrieval-Based Conversation System"
+    Nikita Smetanin
+    Replika
+
+
 ## Workshop Schedule
 TBA
 
