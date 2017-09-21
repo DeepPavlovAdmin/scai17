@@ -1,4 +1,4 @@
-> We are happy to get support from [Facebook](https://facebook.com) and [Google](https://google.com) for student travel grants! Share your research! [Submission](http://scai.info/cfp) deadline is August 15.
+> Register at [sigir.org/ictir2017/registration](http://sigir.org/ictir2017/registration/). See you on October 1st at Hotel Casa 400!
 
 # About
 There is a gradual shift towards searching and  presenting the information in a conversational form. Chatbots, personal assistants in our phones and eyes-free devices are being used increasingly more for different purposes, including information retrieval and exploration. On the other side, information retrieval empowers dialogue systems to answer questions and to get context for assisting user in her tasks.  With the recent success of deep learning in different areas of natural language processing, this appears to be the right foundation to power search conversationalization.
@@ -27,11 +27,11 @@ We explicitly seek the following types of papers
   * preliminary results of [convai.io](http://convai.io) competition
 
 # Important Dates
-  * There will be two series of submissions:
+  * Submission:
     * ~~Series 1: Submission Deadline - July 15 and Notification - August 1~~
     * ~~Series 2: Submission Deadline - August 22 (extended) and Notification - September 7~~
-  * Deadline for Camera ready version - September 15
-  * The workshop - October 1
+  * ~~Deadline for Camera ready version - September 15~~
+  * The workshop - **October 1**
 
 # Organizers
   * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
@@ -45,6 +45,11 @@ We explicitly seek the following types of papers
   * Tom Kenter, University of Amsterdam
   * Scott Roy, Google
   * Ryen W. White, Microsoft Research
+  * Hosein Azarbonyad, University of Amsterdam
+  * Valentin Malykh, Institute for Systems Analysis of Russian Academy of Sciences 
+  * Evgeny Kharitonov, Criteo
+  * Maksim Kretov, MIPT
+  * Nikita Smetanin, Luka, Inc
 
 # Workshop Format
   * Invited Speakers and Oral Presentation
@@ -57,10 +62,21 @@ We explicitly seek the following types of papers
   * [Filip Radlinski](http://www.radlinski.org/), *Google Research*, London
   * [Michele Galley](https://www.microsoft.com/en-us/research/people/mgalley/), *Microsoft Research*, Redmond
   * [Fabrizio Silvestri](https://www.linkedin.com/in/fabrizio-silvestri-a6b0391/), *Facebook*, London
+  * [Frode Sormo](https://www.linkedin.com/in/frode-s%C3%B8rmo-31b28ba/), *Amazon Alexa*, London
+
+## Industry Speakers
+  * "Conversational/Multiturn Question Understanding"
+    by Gary Ren, Xiaochuan Ni, Manish Malik, Qifa Ke
+    from Microsoft AI and Research
+  * "Incorporating Hard Negative Mining into Retrieval-Based Conversation System"
+    by Nikita Smetanin
+    from Replika
+
 
 ## Workshop Schedule
 TBA
 
 ## Sponsors
+<a href="https://microsoft.com"><img src="MictosoftLogo.png"></a>
 <a href="https://facebook.com"><img src="FacebookLogo.png"></a>
 <a href="https://google.com"><img src="GoogleLogo.png"></a>

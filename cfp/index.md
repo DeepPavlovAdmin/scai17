@@ -24,10 +24,10 @@ There is a gradual shift towards searching and presenting the information in a c
 
 ## IMPORTANT DATES
 There will be two series of submissions:
-- ~~Series 1: Submission Deadline - July 15 and Notification - August 1~~
-- Series 2: Submission Deadline - ~~August 15~~ **August 22** [anywhere in the world](https://www.timeanddate.com/worldclock/timezone/utc-12) and Notification - September 1
+  * ~~Series 1: Submission Deadline - July 15 and Notification - August 1~~
+  * ~~Series 2: Submission Deadline - August 22 (extended) and Notification - September 7~~
 
-Deadline for camera-ready version - September 15
+~~Deadline for Camera ready version - September 15~~
 
 ## SUBMISSIONS
 Submission should be between two and six pages in the ACM format to the following address: <https://easychair.org/conferences/?conf=scai17>.
