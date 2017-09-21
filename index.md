@@ -77,6 +77,6 @@ We explicitly seek the following types of papers
 TBA
 
 ## Sponsors
-<a href="https://microsoft.com"><img src="MictosoftLogo.png"></a>
+<a href="https://microsoft.com"><img src="MicrosoftLogo.png"></a>
 <a href="https://facebook.com"><img src="FacebookLogo.png"></a>
 <a href="https://google.com"><img src="GoogleLogo.png"></a>
