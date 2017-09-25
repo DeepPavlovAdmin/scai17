@@ -92,6 +92,9 @@ We explicitly seek the following types of papers
    * [Claudia Hauff](http://chauff.github.io/),*Delft University of Technology*, the Netherlands
    * [Jeff Dalton](https://scholar.google.com/citations?user=mgwLi-EAAAAJ), *University of Glasgow*, Glasgow, Scotland, UK
 
+## Accepted Papers
+TBA
+
 
 ## Workshop Schedule
 TBA
