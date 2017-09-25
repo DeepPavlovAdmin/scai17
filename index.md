@@ -82,9 +82,9 @@ We explicitly seek the following types of papers
   * [Gary Ren](https://www.linkedin.com/in/rengary/), Xiaochuan Ni, Manish Malik, Qifa Ke, *Microsoft AI and Research*, Sunnyvale, CA
     * Title: Conversational/Multiturn Question Understanding
     * Abstract: Existing research on question understanding and answering have focused on standalone questions. However, as interactions between humans and machines become increasingly convers tional, there is a need for understanding conversational/multiturn questions, defined here as questions that depend on the context of the current conversation. This paper presents a novel architecture that leverages NLP techniques, deep learning, and search engine web knowledge to understand these multiturn questions by reformulating them into standalone questions that a downstream information retrieval system/dialogue agent expects. This paper also briefly explores the benefits of having a search powered system that can have guided conversations with users.
-  * [Nikita Smetanin]() Replika.AI, Moscow, Russia
-   * Title: Incorporating Hard Negative Mining into Retrieval-Based Conversation System
-   * Abstract: Retrieval-based conversation systems generally tend to rank high responses that are semantically similar, or even identical, to the given conversation context. While the system's goal is to find the most relevant response, rather than semantically similar, this tendency results in low-quality responses (this challenge can be referred to as the echoing problem). To minimize this effect, we apply a hard negative mining approach at the training stage. The evaluation shows that the resulting model avoids echoing the context and achieves the best quality metrics on the benchmarks.
+  * [Nikita Smetanin](https://www.linkedin.com/in/nikitasmetanin/), *Replika.AI*, Moscow, Russia
+    * Title: Incorporating Hard Negative Mining into Retrieval-Based Conversation System
+    * Abstract: Retrieval-based conversation systems generally tend to rank high responses that are semantically similar, or even identical, to the given conversation context. While the system's goal is to find the most relevant response, rather than semantically similar, this tendency results in low-quality responses (this challenge can be referred to as the echoing problem). To minimize this effect, we apply a hard negative mining approach at the training stage. The evaluation shows that the resulting model avoids echoing the context and achieves the best quality metrics on the benchmarks.
     
 
 
