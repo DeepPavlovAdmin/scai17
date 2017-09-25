@@ -85,7 +85,12 @@ We explicitly seek the following types of papers
   * [Nikita Smetanin](https://www.linkedin.com/in/nikitasmetanin/), *Replika.AI*, Moscow, Russia
     * Title: Incorporating Hard Negative Mining into Retrieval-Based Conversation System
     * Abstract: Retrieval-based conversation systems generally tend to rank high responses that are semantically similar, or even identical, to the given conversation context. While the system's goal is to find the most relevant response, rather than semantically similar, this tendency results in low-quality responses (this challenge can be referred to as the echoing problem). To minimize this effect, we apply a hard negative mining approach at the training stage. The evaluation shows that the resulting model avoids echoing the context and achieves the best quality metrics on the benchmarks.
-    
+
+## Panel Disscusion: participants
+   * [Maarten de Rijke]https://staff.fnwi.uva.nl/m.derijke/), *University of Amsterdam*, the Netherlands
+   * [Michele Galley](https://www.microsoft.com/en-us/research/people/mgalley/), *Microsoft Research*, Redmond
+   * [Claudia Hauff](http://chauff.github.io/),*Delft University of Technology*, the Netherlands
+   * [Jeff Dalton](https://scholar.google.com/citations?user=mgwLi-EAAAAJ), *University of Glasgow*, Glasgow, Scotland, UK
 
 
 ## Workshop Schedule
