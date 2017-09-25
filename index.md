@@ -7,7 +7,7 @@ While there is significant progress in building goal-oriented dialogue systems a
 This workshop aims to bring together AI/Deep Learning specialists on one hand and search/IR specialists on the other hand to lay the ground for search-oriented conversational AI and establish future directions and collaborations.
 
 ## Topics of Interest
-  *  Surfacing search results in form of a dialogue (how to present information that search gives us in a form of a dialogue? Which model to use for dialogue-state tracking?)
+  * Surfacing search results in form of a dialogue (how to present information that search gives us in a form of a dialogue? Which model to use for dialogue-state tracking?)
   * Evaluation of search-oriented conversational AI: despite early attempts at
  computing dialogue system's quality in a scalable way
   * From conversational AI to personal assistants (how to maintain a stable and consistent assistant behavior)
@@ -49,7 +49,7 @@ We explicitly seek the following types of papers
   * Valentin Malykh, Institute for Systems Analysis of Russian Academy of Sciences 
   * Evgeny Kharitonov, Criteo
   * Maksim Kretov, MIPT
-  * Nikita Smetanin, Luka, Inc
+  * Nikita Smetanin, Replika.AI
 
 # Workshop Format
   * Invited Speakers and Oral Presentation
@@ -59,18 +59,33 @@ We explicitly seek the following types of papers
 
 ## Invited Speakers
   * [Dilek Hakkani-Tür](https://research.google.com/pubs/104927.html), *Google Research*, Mountain View
+    * Title: Deep Learning for Goal-Oriented Conversational Understanding
+    * Abstarct: Recent advances in deep learning based approaches enable exciting new research frontiers for conversational systems. In this talk, I will present an end-to-end goal-oriented dialogue system, with components for language understanding, dialogue state tracking, policy, and language generation. These can be independently built and jointly optimized for dialogue quality and efficient task completion using supervised or reinforcement learning methods. The talk will summarize novel aspects of each component, and highlight remaining issues and challenges towards building human-level conversational systems.
   * [Filip Radlinski](http://www.radlinski.org/), *Google Research*, London
+    * Title: A Theoretical Framework for Conversational Search
+    * Abstarct: I will present a theory and model of information interaction for conversational information retrieval. In particular, consider the question of what properties would be desirable for a conversational information retrieval system, so that the system can allow users to answer a variety of information needs in a natural and efficient manner. I will describe a small set of properties that taken together could measure the extent to which a system is conversational, as well as a theoretical model of a conversational system that implements the properties. 
   * [Michele Galley](https://www.microsoft.com/en-us/research/people/mgalley/), *Microsoft Research*, Redmond
+    * Title: Grounding Neural Conversation Models into the Real World 
+    * Abstarct: Neural conversation models are capable of generating natural sounding conversational interactions on a wide variety of topics. However, such fully data-driven models have been mostly applied to casual scenarios (e.g., “chit-chat”) and have yet to demonstrate they can serve in more useful conversational applications. In this talk, I will present recent work on large-scale and open-domain neural conversation models grounded in external sources (e.g. textual knowledge bases, personalization data, images) that help produce more informative, contentful, and personalized responses.
   * [Fabrizio Silvestri](https://www.linkedin.com/in/fabrizio-silvestri-a6b0391/), *Facebook*, London
-  * [Frode Sormo](https://www.linkedin.com/in/frode-s%C3%B8rmo-31b28ba/), *Amazon Alexa*, London
+    * Title: Search at FB
+    * Abstarct: Search is a very important service that everybody uses daily. Facebook is investing heavily in search and in this seminar, I will present an overview of search at FB along with some details about the projects that are carried out in the London Team. I will present the recent activities in the Query Alteration team, namely Query Rewriting, Speller, and Related Searches. In the talk I will present an overview of the current solutions adopted along with some of the research challenges that are peculiar to FB people.
+  * [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), *Apple AI & CMU*, USA
+    * Title: Deep Learning for Reading Comprehension
+    * Abstarct: In this talk, I will discuss deep learning models that can find  semantically meaningful representations of words, learn to read  documents and answer questions about their content. I will first  introduce the  Gated-Attention (GA) Reader model that integrates a  multi-hop architecture with a novel attention mechanism based on multiplicative interactions between the query embedding and the  intermediate states of a recurrent neural network document reader. This  enables the reader to build query-specific representations of tokens in  the document for accurate answer selection. Time permits, I will briefly  introduce a fine-grained gating mechanism to dynamically combine  word-level and character-level representations based on properties of  the words. I will show that on several tasks, these models improve upon  many of the existing techniques.
+  
 
 ## Industry Speakers
-  * "Conversational/Multiturn Question Understanding"
-    by Gary Ren, Xiaochuan Ni, Manish Malik, Qifa Ke
-    from Microsoft AI and Research
-  * "Incorporating Hard Negative Mining into Retrieval-Based Conversation System"
-    by Nikita Smetanin
-    from Replika
+  * [Frode Sormo](https://www.linkedin.com/in/frode-s%C3%B8rmo-31b28ba/), *Amazon Alexa*, London
+    * Title:
+    * Abstarct:
+  * [Gary Ren](https://www.linkedin.com/in/rengary/), Xiaochuan Ni, Manish Malik, Qifa Ke, *Microsoft AI and Research*, Sunnyvale, CA
+    * Title: "Conversational/Multiturn Question Understanding"
+    * Abstract: Existing research on question understanding and answering have focused on standalone questions. However, as interactions between humans and machines become increasingly convers tional, there is a need for understanding conversational/multiturn questions, defined here as questions that depend on the context of the current conversation. This paper presents a novel architecture that leverages NLP techniques, deep learning, and search engine web knowledge to understand these multiturn questions by reformulating them into standalone questions that a downstream information retrieval system/dialogue agent expects. This paper also briefly explores the benefits of having a search powered system that can have guided conversations with users.
+  * [Nikita Smetanin]() Replika.AI, Moscow, Russia
+   * Title: "Incorporating Hard Negative Mining into Retrieval-Based Conversation System"
+   * Abstract: 
+    
 
 
 ## Workshop Schedule
