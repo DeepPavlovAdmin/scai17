@@ -104,10 +104,7 @@ We explicitly seek the following types of papers
 
 The detailed schedule of the workshop can be found [HERE](https://docs.google.com/spreadsheets/d/1FuRajSqtCqLhgG-avcHJTfqiRbipL2niqNLOvL3Pfvw/edit#gid=0)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2ulDRn5ZKdZYS3Ns0SDppZH-p1imUAKV-sKoOjMbn1O_NzAnYlukEnBxm8lFlUm8hNNeeSWa-hn8C/pubhtml?widget=true&amp;headers=false" id="iFrame1" width="1400" height="600" frameborder="1" marginheight="0" marginwidth="0"></iframe>
-
-
-https://docs.google.com/spreadsheets/d/e/2PACX-1vT2ulDRn5ZKdZYS3Ns0SDppZH-p1imUAKV-sKoOjMbn1O_NzAnYlukEnBxm8lFlUm8hNNeeSWa-hn8C/pubhtml
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2ulDRn5ZKdZYS3Ns0SDppZH-p1imUAKV-sKoOjMbn1O_NzAnYlukEnBxm8lFlUm8hNNeeSWa-hn8C/pubhtml?widget=true&amp;headers=false" id="iFrame1" width="1200" height="600" frameborder="1" marginheight="0" marginwidth="0"></iframe>
 
 ## Sponsors
 <a href="https://microsoft.com"><img src="MicrosoftLogo.png"></a>
