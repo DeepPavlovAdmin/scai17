@@ -1,4 +1,4 @@
-> Register at [sigir.org/ictir2017/registration](http://sigir.org/ictir2017/registration/). See you on October 1st at Hotel Casa 400!
+Register at [sigir.org/ictir2017/registration](http://sigir.org/ictir2017/registration/). See you on October 1st at Hotel Casa 400!
 
 # About
 There is a gradual shift towards searching and  presenting the information in a conversational form. Chatbots, personal assistants in our phones and eyes-free devices are being used increasingly more for different purposes, including information retrieval and exploration. On the other side, information retrieval empowers dialogue systems to answer questions and to get context for assisting user in her tasks.  With the recent success of deep learning in different areas of natural language processing, this appears to be the right foundation to power search conversationalization.
@@ -101,32 +101,6 @@ We explicitly seek the following types of papers
   * [Conversational Exploratory Search via Interactive Storytelling](https://arxiv.org/abs/1709.05298) by Svitlana Vakulenko, Ilya Markov and Maarten de Rijke
 
 ## Workshop Schedule
-
-
-223
-down vote
-accepted
-<script type="application/javascript">
-
-function resizeIFrameToFitContent( iFrame ) {
-
-    iFrame.width  = iFrame.contentWindow.document.body.scrollWidth;
-    iFrame.height = iFrame.contentWindow.document.body.scrollHeight;
-}
-
-window.addEventListener('DOMContentLoaded', function(e) {
-
-    var iFrame = document.getElementById( 'iFrame1' );
-    resizeIFrameToFitContent( iFrame );
-
-    // or, to resize all iframes:
-    var iframes = document.querySelectorAll("iframe");
-    for( var i = 0; i < iframes.length; i++) {
-        resizeIFrameToFitContent( iframes[i] );
-    }
-} );
-
-</script>
 
  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2ulDRn5ZKdZYS3Ns0SDppZH-p1imUAKV-sKoOjMbn1O_NzAnYlukEnBxm8lFlUm8hNNeeSWa-hn8C/pubhtml?widget=true&amp;headers=false" id="iFrame1"></iframe>
 
