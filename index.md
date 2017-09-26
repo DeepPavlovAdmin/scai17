@@ -93,8 +93,12 @@ We explicitly seek the following types of papers
    * [Jeff Dalton](https://scholar.google.com/citations?user=mgwLi-EAAAAJ), *University of Glasgow*, Glasgow, Scotland, UK
 
 ## Accepted Papers
-TBA
-
+  * [Task-Oriented Query Reformulation with Reinforcement Learning](http://scai.info/papers/task-oriented-query.pdf) by Rodrigo Nogueira and Kyunghyun Cho
+  * [Will this dialogue be unsuccessful? Prediction using audio features](http://scai.info/papers/SCAI_2017_cameraready_MKotti.pdf) by Margarita Kotti, Alexandros Papangelis and Yannis Stylianou
+  * [LD-SDS: Towards an Expressive Spoken Dialogue System based on Linked-Data](http://scai.info/papers/SCAI_paper6.pdf) by Alexandros Papangelis, Panagiotis Papadakos, Margarita Kotti, Yannis Stylianou, Yannis Tzitzikas and Dimitris Plexousakis 
+  * [Combining Search with Structured Data to Create a More Delightful User Experience in Open Domain Dialogue](https://arxiv.org/abs/1709.05411) by Kevin Bowden, Shereen Oraby, Jiaqi Wu, Amita Misra and Marilyn Walker
+  * [Voice-based Data Exploration: Chatting with your Database](http://scai.info/papers/SCAI2017_EchoQuery.pdf) by Carsten Binnig, Ugur Cetinemel, Prasetya Utama and Nathaniel Weir
+  * [Conversational Exploratory Search via Interactive Storytelling](https://arxiv.org/abs/1709.05298) by Svitlana Vakulenko, Ilya Markov and Maarten de Rijke
 
 ## Workshop Schedule
 TBA
