@@ -100,6 +100,12 @@ We explicitly seek the following types of papers
   * [Voice-based Data Exploration: Chatting with your Database](http://scai.info/papers/SCAI2017_EchoQuery.pdf) by Carsten Binnig, Ugur Cetinemel, Prasetya Utama and Nathaniel Weir
   * [Conversational Exploratory Search via Interactive Storytelling](https://arxiv.org/abs/1709.05298) by Svitlana Vakulenko, Ilya Markov and Maarten de Rijke
 
+## Posters
+  * [WOAH: Preliminaries to Zero-shot Ontology Learning for Conversational Agents](https://arxiv.org/abs/1709.05014) by Gonzalo Estrán Buyo
+  * [Perspectives for Evaluating Conversational AI](https://arxiv.org/pdf/1709.04734.pdf) by Mahipal Jadeja and Neelanshi Varia
+  * [Deep Reinforcement Learning for Conversational AI](https://arxiv.org/pdf/1709.05067.pdf) by Mahipal Jadeja, Neelanshi Varia and Agam Shah
+
+
 ## Workshop Schedule
 
 The detailed schedule of the workshop can be found [HERE](https://docs.google.com/spreadsheets/d/1FuRajSqtCqLhgG-avcHJTfqiRbipL2niqNLOvL3Pfvw/edit#gid=0)
