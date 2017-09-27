@@ -88,8 +88,8 @@ We explicitly seek the following types of papers
 
 ## Panel Disscusion: participants
    * [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/), *University of Amsterdam*, the Netherlands
-   * [Michele Galley](https://www.microsoft.com/en-us/research/people/mgalley/), *Microsoft Research*, Redmond
-   * [Claudia Hauff](http://chauff.github.io/),*Delft University of Technology*, the Netherlands
+   * [Michele Galley](https://www.microsoft.com/en-us/research/people/mgalley/), *Microsoft Research*, Redmond, US
+   * [Claudia Hauff](http://chauff.github.io/), *Delft University of Technology*, the Netherlands
    * [Jeff Dalton](https://scholar.google.com/citations?user=mgwLi-EAAAAJ), *University of Glasgow*, Glasgow, Scotland, UK
 
 ## Accepted Papers
