@@ -1,5 +1,7 @@
 Register at [sigir.org/ictir2017/registration](http://sigir.org/ictir2017/registration/). See you on October 1st at Hotel Casa 400!
 
+SIKS students can register for [free](https://www.linkedin.com/pulse/free-tutorial-workshop-registration-siks-phd-ictir-2017-kiseleva/) 
+
 # About
 There is a gradual shift towards searching and  presenting the information in a conversational form. Chatbots, personal assistants in our phones and eyes-free devices are being used increasingly more for different purposes, including information retrieval and exploration. On the other side, information retrieval empowers dialogue systems to answer questions and to get context for assisting user in her tasks.  With the recent success of deep learning in different areas of natural language processing, this appears to be the right foundation to power search conversationalization.
 While there is significant progress in building goal-oriented dialogue systems and open-domain chit-chat bots, more remains to be done for theory and practice of conversation-based search and search-based dialogues.
