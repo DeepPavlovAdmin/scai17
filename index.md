@@ -64,7 +64,7 @@ We explicitly seek the following types of papers
   * [Filip Radlinski](http://www.radlinski.org/), *Google Research*, London
     * Title: A Theoretical Framework for Conversational Search
     * Abstarct: I will present a theory and model of information interaction for conversational information retrieval. In particular, consider the question of what properties would be desirable for a conversational information retrieval system, so that the system can allow users to answer a variety of information needs in a natural and efficient manner. I will describe a small set of properties that taken together could measure the extent to which a system is conversational, as well as a theoretical model of a conversational system that implements the properties. 
-  * [Michele Galley](https://www.microsoft.com/en-us/research/people/mgalley/), *Microsoft Research*, Redmond
+  * [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley/), *Microsoft Research*, Redmond
     * Title: Grounding Neural Conversation Models into the Real World 
     * Abstarct: Neural conversation models are capable of generating natural sounding conversational interactions on a wide variety of topics. However, such fully data-driven models have been mostly applied to casual scenarios (e.g., “chit-chat”) and have yet to demonstrate they can serve in more useful conversational applications. In this talk, I will present recent work on large-scale and open-domain neural conversation models grounded in external sources (e.g. textual knowledge bases, personalization data, images) that help produce more informative, contentful, and personalized responses.
   * [Fabrizio Silvestri](https://www.linkedin.com/in/fabrizio-silvestri-a6b0391/), *Facebook*, London
