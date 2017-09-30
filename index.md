@@ -73,10 +73,10 @@ We explicitly seek the following types of papers
   * [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), *Apple AI & CMU*, USA
     * Title: Deep Learning for Reading Comprehension
     * Abstarct: In this talk, I will discuss deep learning models that can find  semantically meaningful representations of words, learn to read  documents and answer questions about their content. I will first  introduce the  Gated-Attention (GA) Reader model that integrates a  multi-hop architecture with a novel attention mechanism based on multiplicative interactions between the query embedding and the  intermediate states of a recurrent neural network document reader. This  enables the reader to build query-specific representations of tokens in  the document for accurate answer selection. Time permits, I will briefly  introduce a fine-grained gating mechanism to dynamically combine  word-level and character-level representations based on properties of  the words. I will show that on several tasks, these models improve upon  many of the existing techniques.
-  
+
 
 ## Industry Speakers
-  * [Frode Sormo](https://www.linkedin.com/in/frode-s%C3%B8rmo-31b28ba/), *Amazon Alexa*, London
+  * [Frode Sørmo](https://www.linkedin.com/in/frode-s%C3%B8rmo-31b28ba/), *Amazon Alexa*, London
     * Title: Alexa: Speak with your Computer – Naturally
     * Abstarct: This talk will cover an introduction to Alexa, the brain behind devices such as the Echo. Alexa is designed around the idea that machines should learn to communicate like us, enabling customers to interact with devices in a more intuitive way using voice. Examples of these skills include the ability to play music, answer general questions, set an alarm or timer and more.
   * [Gary Ren](https://www.linkedin.com/in/rengary/), Xiaochuan Ni, Manish Malik, Qifa Ke, *Microsoft AI and Research*, Sunnyvale, CA
@@ -102,8 +102,8 @@ We explicitly seek the following types of papers
 
 ## Posters
   * [WOAH: Preliminaries to Zero-shot Ontology Learning for Conversational Agents](https://arxiv.org/abs/1709.05014) by Gonzalo Estrán Buyo
-  * [Perspectives for Evaluating Conversational AI](https://arxiv.org/pdf/1709.04734.pdf) by Mahipal Jadeja and Neelanshi Varia
-  * [Deep Reinforcement Learning for Conversational AI](https://arxiv.org/pdf/1709.05067.pdf) by Mahipal Jadeja, Neelanshi Varia and Agam Shah
+  * [Perspectives for Evaluating Conversational AI](https://arxiv.org/abs/1709.04734) by Mahipal Jadeja and Neelanshi Varia
+  * [Deep Reinforcement Learning for Conversational AI](https://arxiv.org/abs/1709.05067) by Mahipal Jadeja, Neelanshi Varia and Agam Shah
 
 
 ## Workshop Schedule
