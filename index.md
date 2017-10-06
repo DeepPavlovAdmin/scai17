@@ -75,7 +75,7 @@ We explicitly seek the following types of papers
   * [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/), *Apple AI & CMU*, USA
     * Title: Deep Learning for Reading Comprehension
     * Abstarct: In this talk, I will discuss deep learning models that can find  semantically meaningful representations of words, learn to read  documents and answer questions about their content. I will first  introduce the  Gated-Attention (GA) Reader model that integrates a  multi-hop architecture with a novel attention mechanism based on multiplicative interactions between the query embedding and the  intermediate states of a recurrent neural network document reader. This  enables the reader to build query-specific representations of tokens in  the document for accurate answer selection. Time permits, I will briefly  introduce a fine-grained gating mechanism to dynamically combine  word-level and character-level representations based on properties of  the words. I will show that on several tasks, these models improve upon  many of the existing techniques.
-
+    * [Slides](http://scai.info/slides/talk_scai.pdf)
 
 ## Industry Speakers
   * [Frode Sørmo](https://www.linkedin.com/in/frode-s%C3%B8rmo-31b28ba/), *Amazon Alexa*, London
@@ -84,9 +84,12 @@ We explicitly seek the following types of papers
   * [Gary Ren](https://www.linkedin.com/in/rengary/), Xiaochuan Ni, Manish Malik, Qifa Ke, *Microsoft AI and Research*, Sunnyvale, CA
     * Title: [Conversational/Multiturn Question Understanding](http://scai.info/papers/ictir_paper_cqu_v6.pdf)
     * Abstract: Existing research on question understanding and answering have focused on standalone questions. However, as interactions between humans and machines become increasingly convers tional, there is a need for understanding conversational/multiturn questions, defined here as questions that depend on the context of the current conversation. This paper presents a novel architecture that leverages NLP techniques, deep learning, and search engine web knowledge to understand these multiturn questions by reformulating them into standalone questions that a downstream information retrieval system/dialogue agent expects. This paper also briefly explores the benefits of having a search powered system that can have guided conversations with users.
+   *[Slides](http://scai.info/slides/ictir_presentation2.pptx)
+
   * [Nikita Smetanin](https://www.linkedin.com/in/nikitasmetanin/), *Replika.AI*, Moscow, Russia
     * Title: Building an Emotional conversation using Deep Learning
     * Abstract: Retrieval-based conversation systems generally tend to rank high responses that are semantically similar, or even identical, to the given conversation context. While the system's goal is to find the most relevant response, rather than semantically similar, this tendency results in low-quality responses (this challenge can be referred to as the echoing problem). To minimize this effect, we apply a hard negative mining approach at the training stage. The evaluation shows that the resulting model avoids echoing the context and achieves the best quality metrics on the benchmarks.
+   * [Slides](http://scai.info/slides/replika_ai.pdf)
 
 ## Panel Disscusion: participants
    * [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/), *University of Amsterdam*, the Netherlands
