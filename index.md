@@ -84,7 +84,7 @@ We explicitly seek the following types of papers
   * [Gary Ren](https://www.linkedin.com/in/rengary/), Xiaochuan Ni, Manish Malik, Qifa Ke, *Microsoft AI and Research*, Sunnyvale, CA
     * Title: [Conversational/Multiturn Question Understanding](http://scai.info/papers/ictir_paper_cqu_v6.pdf)
     * Abstract: Existing research on question understanding and answering have focused on standalone questions. However, as interactions between humans and machines become increasingly convers tional, there is a need for understanding conversational/multiturn questions, defined here as questions that depend on the context of the current conversation. This paper presents a novel architecture that leverages NLP techniques, deep learning, and search engine web knowledge to understand these multiturn questions by reformulating them into standalone questions that a downstream information retrieval system/dialogue agent expects. This paper also briefly explores the benefits of having a search powered system that can have guided conversations with users.
-   *[Slides](http://scai.info/slides/ictir_presentation2.pptx)
+    * [Slides](http://scai.info/slides/ictir_presentation2.pptx)
 
   * [Nikita Smetanin](https://www.linkedin.com/in/nikitasmetanin/), *Replika.AI*, Moscow, Russia
     * Title: Building an Emotional conversation using Deep Learning
