@@ -69,6 +69,7 @@ We explicitly seek the following types of papers
   * [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley/), *Microsoft Research*, Redmond
     * Title: Grounding Neural Conversation Models into the Real World 
     * Abstarct: Neural conversation models are capable of generating natural sounding conversational interactions on a wide variety of topics. However, such fully data-driven models have been mostly applied to casual scenarios (e.g., “chit-chat”) and have yet to demonstrate they can serve in more useful conversational applications. In this talk, I will present recent work on large-scale and open-domain neural conversation models grounded in external sources (e.g. textual knowledge bases, personalization data, images) that help produce more informative, contentful, and personalized responses.
+    * [Slides](http://scai.info/slides/SCAI2017-grounded.pdf)
   * [Fabrizio Silvestri](https://www.linkedin.com/in/fabrizio-silvestri-a6b0391/), *Facebook*, London
     * Title: Search at FB
     * Abstarct: Search is a very important service that everybody uses daily. Facebook is investing heavily in search and in this seminar, I will present an overview of search at FB along with some details about the projects that are carried out in the London Team. I will present the recent activities in the Query Alteration team, namely Query Rewriting, Speller, and Related Searches. In the talk I will present an overview of the current solutions adopted along with some of the research challenges that are peculiar to FB people.
