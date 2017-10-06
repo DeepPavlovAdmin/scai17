@@ -89,7 +89,7 @@ We explicitly seek the following types of papers
   * [Nikita Smetanin](https://www.linkedin.com/in/nikitasmetanin/), *Replika.AI*, Moscow, Russia
     * Title: Building an Emotional conversation using Deep Learning
     * Abstract: Retrieval-based conversation systems generally tend to rank high responses that are semantically similar, or even identical, to the given conversation context. While the system's goal is to find the most relevant response, rather than semantically similar, this tendency results in low-quality responses (this challenge can be referred to as the echoing problem). To minimize this effect, we apply a hard negative mining approach at the training stage. The evaluation shows that the resulting model avoids echoing the context and achieves the best quality metrics on the benchmarks.
-   * [Slides](http://scai.info/slides/replika_ai.pdf)
+    * [Slides](http://scai.info/slides/replika_ai.pdf)
 
 ## Panel Disscusion: participants
    * [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/), *University of Amsterdam*, the Netherlands
