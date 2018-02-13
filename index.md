@@ -31,7 +31,14 @@ The [1st edition](./2017/) of the workshop was co-located with International Con
   * [Alexey Borisov](https://scholar.google.com/citations?user=i83g0E0AAAAJ), *Yandex & University of Amsterdam*, Moscow
   * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
 
+## Steering Committee
+
+* Joelle Pineau, *McGill University* 
+* Michel Galley, *Microsoft Research*
+* Maarten de Rijke, *University of Amsterdam*
+
 ## Program Committee
+
 TBD
 
 # Workshop Format
