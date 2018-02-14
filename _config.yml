@@ -1,3 +1,13 @@
 theme: jekyll-theme-leap-day
-title: "<a href=\"http://scai.info\">SCAI'18</a> — Search-Oriented Conversational AI"
-description: "co-located with <a href=\"http://emnlp2018.org\">EMNLP'18</a>"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      title: "<a href=\"http://scai.info\">SCAI'18</a> — Search-Oriented Conversational AI"
+      description: "co-located with <a href=\"http://emnlp2018.org\">EMNLP'18</a>"
+  - scope:
+      path: "2017"
+    values:
+      title: "<a href=\"http://scai.info/2017\">SCAI'17</a> — Search-Oriented Conversational AI"
+      description: "co-located with <a href=\"http://sigir.org/ictir2017/\">ICTIR'17</a>"
