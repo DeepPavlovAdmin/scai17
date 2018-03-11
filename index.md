@@ -2,7 +2,7 @@
 
 **The 2nd International Workshop on Search-Oriented Conversational AI (SCAI)**
 
-at [EMNLP 2018](http://emnlp2018.org/workshops/), Brussels, Belgium 🇧🇪, October 31 or November 1 (to be defined).
+at [EMNLP 2018](http://emnlp2018.org/workshops/), Brussels, Belgium 🇧🇪, October 31 or November 1 (exact date TBD).
 
 
 More and more information is found and consumed in a conversational form rather than using traditional search engines. Chatbots, personal assistants in our phones and eyes-free devices are being used increasingly more for different purposes, including information retrieval and exploration. On the other side, information retrieval empowers dialogue systems to answer questions and to get context for assisting the user in her tasks.  With the recent success of deep learning in different areas of natural language processing, this appears to be the right foundation to power search conversationalization. While there is significant progress in building goal-oriented dialogue systems and open-domain chit-chat bots, more remains to be done for theory and practice of conversation-based search and search-based dialogues.
