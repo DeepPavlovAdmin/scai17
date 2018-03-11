@@ -1,8 +1,13 @@
 # About
-There is a gradual shift towards searching and  presenting the information in a conversational form. Chatbots, personal assistants in our phones and eyes-free devices are being used increasingly more for different purposes, including information retrieval and exploration. On the other side, information retrieval empowers dialogue systems to answer questions and to get context for assisting user in her tasks.  With the recent success of deep learning in different areas of natural language processing, this appears to be the right foundation to power search conversationalization.
-While there is significant progress in building goal-oriented dialogue systems and open-domain chit-chat bots, more remains to be done for theory and practice of conversation-based search and search-based dialogues.
 
-This workshop aims to bring together AI/Deep Learning specialists on one hand and search/IR specialists on the other hand to lay the ground for search-oriented conversational AI and establish future directions and collaborations.
+**The 2nd International Workshop on Search-Oriented Conversational AI (SCAI)**
+
+at [EMNLP 2018](http://emnlp2018.org/workshops/), Brussels, Belgium 🇧🇪, October 31 or November 1 (to be defined).
+
+
+More and more information is found and consumed in a conversational form rather than using traditional search engines. Chatbots, personal assistants in our phones and eyes-free devices are being used increasingly more for different purposes, including information retrieval and exploration. On the other side, information retrieval empowers dialogue systems to answer questions and to get context for assisting the user in her tasks.  With the recent success of deep learning in different areas of natural language processing, this appears to be the right foundation to power search conversationalization. While there is significant progress in building goal-oriented dialogue systems and open-domain chit-chat bots, more remains to be done for theory and practice of conversation-based search and search-based dialogues.
+
+This workshop aims to bring together researchers from the NLP, Machine Learning, and IR communities to lay the ground for search-oriented conversational AI and establish future directions and collaborations.
 
 The [1st edition](./2017/) of the workshop was co-located with International Conference on the Theory of Information Retrieval (ICTIR 2017).
 
