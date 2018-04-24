@@ -22,12 +22,13 @@ The [1st edition](./2017/) of the workshop was co-located with International Con
   * Voice as input (voice interactions with a personal assistant: how it will affect existing models?)
 
 ## Submission format
-  * TBD
+  * Submission should be between two and six pages in the ACL format.
+  * Submission URL: https://www.softconf.com/emnlp2018/scai18/
 
 # Important Dates
   * Submission: **July 27**
-* Notification: August 18
-* Camera-ready version: August 31
+  * Notification: August 18
+  * Camera-ready version: August 31
 
 # Organizers
   * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google Research Europe*, Zürich
@@ -37,13 +38,11 @@ The [1st edition](./2017/) of the workshop was co-located with International Con
   * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
 
 ## Steering Committee
-
 * Joelle Pineau, *McGill University* 
 * Michel Galley, *Microsoft Research*
 * Maarten de Rijke, *University of Amsterdam*
 
 ## Program Committee
-
 TBD
 
 # Workshop Format
@@ -54,8 +53,8 @@ TBD
 
 ## Invited Speakers
 TBD
-## Workshop Schedule
 
+## Workshop Schedule
 TBD
 
 ## Sponsors
