@@ -53,7 +53,7 @@ interactions with the agent — how will it affect existing models?)
 
 ## SUBMISSIONS
   * Submission should be between two and six pages in the ACL format.
-  * Submission URL: https://www.softconf.com/emnlp2018/scai18/
+  * Submission URL: <https://www.softconf.com/emnlp2018/scai18/>
 
 ## ORGANIZERS
 - Aleksandr Chuklin (Google Research Europe)
