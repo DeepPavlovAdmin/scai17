@@ -71,7 +71,11 @@ TBD
   * Poster Session
 
 ## Invited Speakers
-TBD
+  * Milica Gašić, *University of Cambridge*
+  * Mari Ostendorf, *University of Washington*
+  * Larry Heck, *Samsung Research*
+  * ... more to be announced
+
 
 ## Workshop Schedule
 TBD
