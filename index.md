@@ -74,6 +74,7 @@ TBD
   * Milica Gasic, *University of Cambridge*
   * Mari Ostendorf, *University of Washington*
   * Larry Heck, *Samsung Research*
+  * Antoine Bordes, *Facebook Research*
   * ... more to be announced
 
 
