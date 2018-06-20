@@ -56,8 +56,13 @@ interactions with the agent — how will it affect existing models?)
   * Submission URL: <https://www.softconf.com/emnlp2018/scai18/>
 
 ## ORGANIZERS
-- Aleksandr Chuklin (Google Research Europe)
+- Aleksandr Chuklin (Google AI)
 - Jeff Dalton (University of Glasgow)
 - Julia Kiseleva (UserSat.com & University of Amsterdam)
 - Alexey Borisov (Yandex & University of Amsterdam)
 - Mikhail Burtsev (MIPT)
+
+## STEERING COMMITTEE
+- Joelle Pineau (McGill University)
+- Michel Galley (Microsoft Research)
+- Maarten de Rijke (University of Amsterdam)
