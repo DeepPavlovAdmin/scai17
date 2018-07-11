@@ -82,4 +82,5 @@ TBD
 TBD
 
 ## Sponsors
-TBD
+<a href="https://google.com"><img src="media/GoogleLogo.ai"></a>
+
