@@ -58,7 +58,7 @@ interactions with the agent — how will it affect existing models?)
 ## ORGANIZERS
 - Aleksandr Chuklin (Google AI)
 - Jeff Dalton (University of Glasgow)
-- Julia Kiseleva (UserSat.com & University of Amsterdam)
+- Julia Kiseleva (University of Amsterdam)
 - Alexey Borisov (Yandex & University of Amsterdam)
 - Mikhail Burtsev (MIPT)
 
