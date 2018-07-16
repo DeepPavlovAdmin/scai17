@@ -66,7 +66,7 @@ TBD
 
 # Workshop Format
   * Invited Speakers and Oral Presentation
-  * Panel Discussion. You can send us your suggestions [here](https://app.sli.do/event/i0line8v).
+  * Panel Discussion. You can send us your suggestions.
   * Breakout Session to plan a roadmap for Conversational AI
   * Poster Session
 
