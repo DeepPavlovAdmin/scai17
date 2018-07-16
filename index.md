@@ -52,7 +52,7 @@ interactions with the agent — how will it affect existing models?)
 # Organizers
   * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google AI*, Zürich
   * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
-  * [Julia Kiseleva](http://juliakiseleva.com), *UserSat.com & University of Amsterdam*, Amsterdam
+  * [Julia Kiseleva](http://juliakiseleva.com), *University of Amsterdam*, Amsterdam
   * [Alexey Borisov](https://scholar.google.com/citations?user=i83g0E0AAAAJ), *Yandex & University of Amsterdam*, Moscow
   * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
 
