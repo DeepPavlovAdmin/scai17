@@ -75,7 +75,7 @@ TBD
   * Mari Ostendorf, *University of Washington*
   * Larry Heck, *Samsung Research*
   * Antoine Bordes, *Facebook Research*
-  * ... more to be announced
+  * Yun-Nung (Vivian) Chen, *National Taiwan University*
 
 
 ## Workshop Schedule
