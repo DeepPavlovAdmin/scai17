@@ -9,7 +9,7 @@ at EMNLP 2018, Brussels, Belgium 🇧🇪, Oct 31 or Nov 1 (TBD), 2018.
 
 [@scai\_workshop](https://twitter.com/scai_workshop)
 
-Paper Submission Deadline:  ~July 27~ **August 3** [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe)
+Paper Submission Deadline:  ~~July 27~~ **August 3** [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe)
 
 
 ## GOALS
