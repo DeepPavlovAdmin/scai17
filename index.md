@@ -45,7 +45,7 @@ interactions with the agent — how will it affect existing models?)
   * EMNLP's [Multiple Submission Policy](http://emnlp2018.org/calls/papers#multiple-submission-policy) applies: should a conceptually similar version of the same paper be accepted elsewhere, the authors would need to decide which submission they want to keep and withdraw the other one.
 
 # Important Dates
-  * Submission: ~July 27~ **August 3** [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe)
+  * Submission: ~~July 27~~ **August 3** [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe)
   * Notification: August 18
   * Camera-ready version: August 31
   * Workshop: October 31 or November 1
