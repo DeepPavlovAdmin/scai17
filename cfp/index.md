@@ -46,7 +46,7 @@ interactions with the agent — how will it affect existing models?)
 
 
 ## IMPORTANT DATES
-  * Submission:  ~July 27~ **August 3** [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe)
+  * Submission:  ~~July 27~~ **August 3** [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe)
   * Notification: August 18
   * Camera-ready version: August 31
   * Workshop: October 31 or November 1
