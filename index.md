@@ -40,11 +40,12 @@ evaluation
 interactions with the agent — how will it affect existing models?)
 
 ## Submission format
-  * Submission should be between two and six pages in the ACL format.
+  * Up to six pages of content in the ACL format, plus unlimited pages for references.
   * Submission URL: <https://www.softconf.com/emnlp2018/scai18/>
+  * EMNLP's [Multiple Submission Policy](http://emnlp2018.org/calls/papers#multiple-submission-policy) applies: should a conceptually similar version of the same paper be accepted elsewhere, the authors would need to decide which submission they want to keep and withdraw the other one.
 
 # Important Dates
-  * Submission: **July 27**
+  * Submission: ~July 27~ **August 3** [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe)
   * Notification: August 18
   * Camera-ready version: August 31
   * Workshop: October 31 or November 1
