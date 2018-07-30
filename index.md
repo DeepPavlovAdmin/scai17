@@ -83,5 +83,6 @@ TBD
 TBD
 
 ## Sponsors
+<a href="https://google.com"><img src="media/MicrosoftLogo.png"></a>
 <a href="https://google.com"><img src="media/GoogleLogo.png"></a>
 
