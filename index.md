@@ -83,6 +83,8 @@ TBD
 TBD
 
 ## Sponsors
+### Gold
 <a href="https://google.com"><img src="media/MicrosoftLogo.png"></a>
-<a href="https://google.com"><img src="media/GoogleLogo.png"></a>
+### Silver
+<a href="https://google.com"><img src="media/GoogleLogo.png" style="max-width: 60%"></a>
 
