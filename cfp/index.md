@@ -9,8 +9,6 @@ at EMNLP 2018, Brussels, Belgium 🇧🇪, Oct 31 or Nov 1 (TBD), 2018.
 
 [@scai\_workshop](https://twitter.com/scai_workshop)
 
-Paper Submission Deadline:  ~~July 27~~ **August 3** [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe)
-
 
 ## GOALS
 More and more information is found and consumed in a conversational form
@@ -46,8 +44,8 @@ interactions with the agent — how will it affect existing models?)
 
 
 ## IMPORTANT DATES
-  * Submission:  ~~July 27~~ **August 3** [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe)
-  * Notification: August 18
+  * ~~Submission:  August 3~~
+  * Notification: **August 18**
   * Camera-ready version: August 31
   * Workshop: October 31 or November 1
 
