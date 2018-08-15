@@ -3,7 +3,7 @@
 The 2nd International Workshop on Search-Oriented Conversational AI (SCAI)
 
 
-at EMNLP 2018, Brussels, Belgium 🇧🇪, Oct 31 or Nov 1 (TBD), 2018.
+at EMNLP 2018, Brussels, Belgium 🇧🇪, Oct 31, 2018.
 
 <https://scai.info>
 
