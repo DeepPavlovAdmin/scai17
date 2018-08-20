@@ -46,9 +46,9 @@ interactions with the agent — how will it affect existing models?)
 
 # Important Dates
   * ~~Submission: August 3~~
-  * Notification: **August 18**
+  * Notification: ~~August 18~~ August 22
   * Camera-ready version: August 31
-  * Workshop: October 31 or November 1
+  * Workshop: October 31
 
 # Organizers
   * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google AI*, Zürich
