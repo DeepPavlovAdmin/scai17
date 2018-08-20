@@ -45,9 +45,9 @@ interactions with the agent — how will it affect existing models?)
 
 ## IMPORTANT DATES
   * ~~Submission:  August 3~~
-  * Notification: **August 18**
+  * Notification: August 22
   * Camera-ready version: August 31
-  * Workshop: October 31 or November 1
+  * Workshop: October 31
 
 ## SUBMISSIONS
   * Up to six pages of content in the ACL format, plus unlimited pages for references.
