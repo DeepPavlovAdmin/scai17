@@ -82,7 +82,6 @@ interactions with the agent — how will it affect existing models?)
 ## Invited Speakers
   * Milica Gasic, *University of Cambridge*
   * Mari Ostendorf, *University of Washington*
-  * Larry Heck, *Samsung Research*
   * Antoine Bordes, *Facebook Research*
   * Yun-Nung (Vivian) Chen, *National Taiwan University*
 
