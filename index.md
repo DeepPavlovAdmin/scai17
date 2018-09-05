@@ -63,7 +63,15 @@ interactions with the agent — how will it affect existing models?)
 * Maarten de Rijke, *University of Amsterdam*
 
 ## Program Committee
-TBD
+  * Damiano Spina, *RMIT University*
+  * Igor Shalyminov, *Heriot-Watt University*
+  * Jaap Kamps, *University of Amsterdam*
+  * Tomp Kenter, *Google London*
+  * Valentin Malykh, *MIPT*
+  * Evgeny Kharitonov, *Facebook Paris* 
+  * Guillermo Garrido, *Google Zürich*
+  * Scott Roy, *Google Mountain View*
+  * Sascha Rothe, *Google Zürich*
 
 # Workshop Format
   * Invited Speakers and Oral Presentation
@@ -81,6 +89,7 @@ TBD
 
 ## Workshop Schedule
 TBD
+  
 
 ## Sponsors
 ### Gold
