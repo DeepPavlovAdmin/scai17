@@ -46,8 +46,8 @@ interactions with the agent — how will it affect existing models?)
 
 # Important Dates
   * ~~Submission: August 3~~
-  * Notification: ~~August 18~~ August 22
-  * Camera-ready version: August 31
+  * ~~Notification: August 22~~
+  * ~~Camera-ready version: August 31~~
   * Workshop: October 31
 
 # Organizers
