@@ -86,8 +86,42 @@ interactions with the agent — how will it affect existing models?)
   * Yun-Nung (Vivian) Chen, *National Taiwan University*
 
 
-## Workshop Schedule
-TBD
+## Tentative Schedule
+* 09:00--09:10 Introduction
+
+Session 1
+* 09:10--09:50 **Keynote 1: Antoine Bordes**
+* 09:50--10:10 # Neural Response Ranking for Social Conversation: A Data-Efficient Approach
+* 10:10--10:30 # Autonomous Sub-domain Modeling for Dialogue Policy with Hierarchical Deep Reinforcement Learning
+* 10:30--11:00 Break
+
+Session 2
+* 11:00--11:40 **Keynote 2: Milica Gašić**
+* 11:40--12:00 # Building Dialogue Structure from Discourse Tree of a Question
+* 12:00--12:20 # A Methodology for Evaluating Interaction Strategies of Task-Oriented Conversational
+* 12:20--12:40 # A Reinforcement Learning-driven Translation Model for Search-Oriented Conversational Systems
+
+* 12:40--14:00 Lunch
+
+Session 3
+* 14:00--14:40 **Keynote 3: Yun-Nung (Vivian) Chen**
+* 14:40--15:00 # Research Challenges in Building a Voice-based Artificial Personal Shopper - Position Paper
+* 15:00--15:30 Poster session
+* 15:30--16:00 Break
+
+Session 4
+* 16:00--16:40 **Keynote 4: Mari Ostendorf**
+* 16:40--17:20 Roundtable discussion
+* 17:20--17:30 Closing
+
+Posters
+* Curriculum Learning Based on Reward Sparseness for Deep Reinforcement Learning of Task Completion Dialogue Management
+* Data Augmentation for Neural Online Chats Response Selection
+* A Knowledge-Grounded Multimodal Search-Based Conversational Agent
+* Embedding Individual Table Columns for Resilient SQL Chatbots
+* Exploring Named Entity Recognition As an Auxiliary Task for Slot Filling in Conversational Language Understanding
+* Why are Sequence-to-Sequence Models So Dull? Understanding the Low-Diversity Problem of Chatbots
+* Retrieve and Refine: Improved Sequence Generation Models For Dialogue
   
 
 ## Sponsors
