@@ -84,6 +84,7 @@ interactions with the agent — how will it affect existing models?)
   * Mari Ostendorf, *University of Washington*
   * Antoine Bordes, *Facebook Research*
   * Yun-Nung (Vivian) Chen, *National Taiwan University*
+  * Mithun Das Gupta, *Microsoft*
 
 
 ## Tentative Schedule
