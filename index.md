@@ -1,4 +1,4 @@
-> [Student grant application form](https://goo.gl/forms/G8z3YoKmCDYOfr0v1) deadline is **October 10**
+> Student grant application [form](https://goo.gl/forms/G8z3YoKmCDYOfr0v1). The deadline is **October 10**.
 
 # About
 
