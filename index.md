@@ -94,7 +94,7 @@ interactions with the agent — how will it affect existing models?)
 
 Session 1
 * 09:10–09:50 **Keynote 1: Antoine Bordes**
-* 09:50–10:30 **Keynote 3: Yun-Nung (Vivian) Chen**
+* 09:50–10:30 **Keynote 2: Yun-Nung (Vivian) Chen**
 * 10:30–11:00 _Break_
 
 Session 2
