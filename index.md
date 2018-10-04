@@ -94,28 +94,30 @@ interactions with the agent — how will it affect existing models?)
 
 Session 1
 * 09:10–09:50 **Keynote 1: Antoine Bordes**
-* 09:50–10:10 Neural Response Ranking for Social Conversation: A Data-Efficient Approach
-* 10:10–10:30 Autonomous Sub-domain Modeling for Dialogue Policy with Hierarchical Deep Reinforcement Learning
-* 10:30–11:00 Break
+* 09:50–10:30 **Keynote 3: Yun-Nung (Vivian) Chen**
+* 10:30–11:00 _Break_
 
 Session 2
-* 11:00–11:40 **Keynote 2: Milica Gašić**
-* 11:40–12:00 Building Dialogue Structure from Discourse Tree of a Question
-* 12:00–12:20 A Methodology for Evaluating Interaction Strategies of Task-Oriented Conversational
-* 12:20–12:40 A Reinforcement Learning-driven Translation Model for Search-Oriented Conversational Systems
-
-* 12:40–14:00 Lunch
+* 11:00–11:40 **Keynote 3: Mithun Das Gupta**
+* 11:40–12:30 Paper presentations (10 min + 2 min Q/A)
+> * Neural Response Ranking for Social Conversation: A Data-Efficient Approach
+> * Autonomous Sub-domain Modeling for Dialogue Policy with Hierarchical Deep Reinforcement Learning
+> * Building Dialogue Structure from Discourse Tree of a Question
+> * A Methodology for Evaluating Interaction Strategies of Task-Oriented Conversational
+* 12:40–14:00 _Lunch_
 
 Session 3
-* 14:00–14:40 **Keynote 3: Yun-Nung (Vivian) Chen**
-* 14:40–15:00 Research Challenges in Building a Voice-based Artificial Personal Shopper - Position Paper
-* 15:00–15:30 Poster session
-* 15:30–16:00 Break
+* 14:00–14:40 **Keynote 4: Milica Gašić**
+* 14:40–15:05 Paper presentations (10 min + 2 min Q/A)
+> * A Reinforcement Learning-driven Translation Model for Search-Oriented Conversational Systems
+> * Research Challenges in Building a Voice-based Artificial Personal Shopper - Position Paper
+* 15:05–16:00 Poster session
+* 15:30–16:00 _Break (overlapping with the poster session)_
 
 Session 4
-* 16:00–16:40 **Keynote 4: Mari Ostendorf**
-* 16:40–17:20 Roundtable discussion
-* 17:20–17:30 Closing
+* 16:00–17:00 Panel discussion
+* 17:00–17:40 **Keynote 5: Mari Ostendorf**
+* 17:40–17:50 Closing
 
 Posters
 * Curriculum Learning Based on Reward Sparseness for Deep Reinforcement Learning of Task Completion Dialogue Management
