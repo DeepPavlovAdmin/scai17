@@ -84,7 +84,7 @@ interactions with the agent — how will it affect existing models?)
 ## Invited Speakers
   * Milica Gasic, *University of Cambridge*
   * Mari Ostendorf, *University of Washington*
-  * Antoine Bordes, *Facebook Research*
+  * [Jason Weston](http://www.thespermwhale.com/jaseweston/), *Facebook*
   * Yun-Nung (Vivian) Chen, *National Taiwan University*
   * Mithun Das Gupta, *Microsoft*
 
@@ -93,8 +93,8 @@ interactions with the agent — how will it affect existing models?)
 * 09:00–09:10 Introduction
 
 Session 1
-* 09:10–09:50 **Keynote 1: Antoine Bordes**
-* 09:50–10:30 **Keynote 2: Yun-Nung (Vivian) Chen**
+* 09:10–09:50 **Keynote 1: Yun-Nung (Vivian) Chen**
+* 09:50–10:30 **Keynote 2: Jason Weston**
 * 10:30–11:00 _Break_
 
 Session 2
