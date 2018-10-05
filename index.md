@@ -82,11 +82,15 @@ interactions with the agent — how will it affect existing models?)
   * Poster Session
 
 ## Invited Speakers
-  * Milica Gasic, *University of Cambridge*
-  * Mari Ostendorf, *University of Washington*
+  * [Milica Gasic](http://mi.eng.cam.ac.uk/~mg436/), *University of Cambridge*
+  > * **Title**: Towards natural conversation with machines using deep learning
+  > * **Abstract**: Deep learning has made a revolution in machine learning, natural language processing and computer vision. In this talk, I will explain how deep learning can help solve some of the problems that dialogue modelling is facing.  These include: scalable belief tracking, policy optimisation for large action spaces, and data-driven user modelling. I will also briefly advertise an initiative of the Cambridge Dialogue Systems Group to address the problem of evaluation of dialogue systems.
+  * [Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/), *University of Washington*
   * [Jason Weston](http://www.thespermwhale.com/jaseweston/), *Facebook*
-  * Yun-Nung (Vivian) Chen, *National Taiwan University*
-  * Mithun Das Gupta, *Microsoft*
+  > * **Title**: Wizard of Wikipedia: Knowledge-Powered Conversational Agents
+  > * **Abstract**: In open-domain dialogue intelligent agents should exhibit the use of knowledge, however there are few convincing demonstrations of this to date. The most popular sequence to sequence models typically “generate and hope” generic utterances that can be memorized in the weights of the model when mapping from input utterance(s) to output, rather than employing recalled knowledge as context. Use of knowledge has so far proved difficult, in part because of the lack of a supervised learning benchmark task which exhibits knowledgeable open dialogue with clear grounding. To that end we collect and release a large dataset with conversations directly grounded with knowledge retrieved from Wikipedia. We then design architectures capable of retrieving knowledge, reading and conditioning on it, and finally generating natural responses. Our best performing dialogue models are able to conduct knowledgeable discussions on open-domain topics as evaluated by automatic metrics and human evaluations, while our new benchmark allows for measuring further improvements in this important research direction. This is joint work with Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan and  Michael Auli  (joint first authors).
+  * [Yun-Nung (Vivian) Chen](https://www.csie.ntu.edu.tw/~yvchen/), *National Taiwan University*
+  * [Mithun Das Gupta](https://www.linkedin.com/in/mithundasgupta), *Microsoft*
 
 
 ## Tentative Schedule
