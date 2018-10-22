@@ -1,5 +1,3 @@
-> Student grant application [form](https://goo.gl/forms/G8z3YoKmCDYOfr0v1). The deadline is **October 10**.
-
 # About
 
 **The 2nd International Workshop on Search-Oriented Conversational AI (SCAI)**
