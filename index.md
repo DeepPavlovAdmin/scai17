@@ -110,17 +110,17 @@ Session 1
 Session 2
 * 11:00–11:40 **Keynote 3: Mithun Das Gupta**
 * 11:40–12:30 Paper presentations (10 min + 2 min Q/A)
-> * Neural Response Ranking for Social Conversation: A Data-Efficient Approach
-> * Autonomous Sub-domain Modeling for Dialogue Policy with Hierarchical Deep Reinforcement Learning
-> * Building Dialogue Structure from Discourse Tree of a Question
-> * A Methodology for Evaluating Interaction Strategies of Task-Oriented Conversational
+> * Neural Response Ranking for Social Conversation: A Data-Efficient Approach. **Igor Shalyminov, Ondřej Dušek and Oliver Lemon**
+> * Autonomous Sub-domain Modeling for Dialogue Policy with Hierarchical Deep Reinforcement Learning. **Giovanni Yoko Kristianto, Huiwen Zhang, Bin Tong, Makoto Iwayama and Yoshiyuki Kobayashi**
+> * Building Dialogue Structure from Discourse Tree of a Question. **Boris Galitsky and Dmitry Ilvovsky**
+> * A Methodology for Evaluating Interaction Strategies of Task-Oriented Conversational. **Marco Guerini, Sara Falcone and Bernardo Magnini**
 * 12:40–14:00 _Lunch_
 
 Session 3
 * 14:00–14:40 **Keynote 4: Milica Gašić**
 * 14:40–15:05 Paper presentations (10 min + 2 min Q/A)
-> * A Reinforcement Learning-driven Translation Model for Search-Oriented Conversational Systems
-> * Research Challenges in Building a Voice-based Artificial Personal Shopper - Position Paper
+> * A Reinforcement Learning-driven Translation Model for Search-Oriented Conversational Systems. **Wafa Aissa, Laure Soulier and Ludovic Denoyer**
+> * Research Challenges in Building a Voice-based Artificial Personal Shopper - Position Paper. **Nut Limsopatham, Oleg Rokhlenko and David Carmel**
 * 15:05–16:00 Poster session
 * 15:30–16:00 _Break (overlapping with the poster session)_
 
@@ -130,13 +130,13 @@ Session 4
 * 17:40–17:50 Closing
 
 Posters
-* Curriculum Learning Based on Reward Sparseness for Deep Reinforcement Learning of Task Completion Dialogue Management
-* Data Augmentation for Neural Online Chats Response Selection
-* A Knowledge-Grounded Multimodal Search-Based Conversational Agent
-* Embedding Individual Table Columns for Resilient SQL Chatbots
-* Exploring Named Entity Recognition As an Auxiliary Task for Slot Filling in Conversational Language Understanding
-* Why are Sequence-to-Sequence Models So Dull? Understanding the Low-Diversity Problem of Chatbots
-* Retrieve and Refine: Improved Sequence Generation Models For Dialogue
+* Curriculum Learning Based on Reward Sparseness for Deep Reinforcement Learning of Task Completion Dialogue Management. **Atsushi Saito**
+* Data Augmentation for Neural Online Chats Response Selection. **Wenchao Du and Alan Black**
+* A Knowledge-Grounded Multimodal Search-Based Conversational Agent. **Shubham Agarwal, Ondřej Dušek, Ioannis Konstas and Verena Rieser**
+* Embedding Individual Table Columns for Resilient SQL Chatbots. **Bojan Petrovski, Ignacio Aguado, Andreea Hossmann, Michael Baeriswyl and Claudiu Musat**
+* Exploring Named Entity Recognition As an Auxiliary Task for Slot Filling in Conversational Language Understanding. **Samuel Louvan and Bernardo Magnini**
+* Why are Sequence-to-Sequence Models So Dull? Understanding the Low-Diversity Problem of Chatbots. **Shaojie Jiang and Maarten de Rijke**
+* Retrieve and Refine: Improved Sequence Generation Models For Dialogue. **Jason Weston, Emily Dinan and Alexander Miller**
   
 
 ## Sponsors
