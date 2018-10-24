@@ -75,7 +75,7 @@ interactions with the agent — how will it affect existing models?)
 
 # Workshop Format
   * Invited Speakers and Oral Presentation
-  * Panel Discussion. You can send us your suggestions.
+  * Panel Discussion. You can [send](https://app2.sli.do/event/oojahuue/questions) your suggestions.
   * Breakout Session to plan a roadmap for Conversational AI
   * Poster Session
 
@@ -124,6 +124,10 @@ Session 3
 
 Session 4
 * 16:00–17:00 Panel discussion
+> * Milica Gašić, University of Cambridge
+> * Antoine Bordes, Facebook AI Research
+> * Jason Weston, Facebook
+> * Bill Dolan, Microsoft Research
 * 17:00–17:40 **Keynote 5: Mari Ostendorf**
 * 17:40–17:50 Closing
 
