@@ -103,8 +103,8 @@ interactions with the agent — how will it affect existing models?)
 * 09:00–09:10 Introduction
 
 Session 1
-* 09:10–09:50 **Keynote 1: Yun-Nung (Vivian) Chen**
-* 09:50–10:30 **Keynote 2: Jason Weston**
+* 09:10–09:50 **Keynote 1: Yun-Nung (Vivian) Chen** [(slides)](https://github.com/DeepPavlov/scai17/raw/master/slides/2018/SCAI2018_chen.pdf)
+* 09:50–10:30 **Keynote 2: Jason Weston** [(slides)](https://github.com/DeepPavlov/scai17/raw/master/slides/2018/SCAI2018_weston.pdf)
 * 10:30–11:00 _Break_
 
 Session 2
