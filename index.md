@@ -101,7 +101,7 @@ interactions with the agent — how will it affect existing models?)
   > * [slides](https://github.com/DeepPavlov/scai17/raw/master/slides/2018/SCAI2018_gupta.pdf)
 
 
-## Tentative Schedule
+## Schedule
 * 09:00–09:10 Introduction
 
 Session 1
