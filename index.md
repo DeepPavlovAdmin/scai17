@@ -83,6 +83,7 @@ interactions with the agent — how will it affect existing models?)
   * [Milica Gasic](http://mi.eng.cam.ac.uk/~mg436/), *University of Cambridge*
   > * **Title**: Towards natural conversation with machines using deep learning
   > * **Abstract**: Deep learning has made a revolution in machine learning, natural language processing and computer vision. In this talk, I will explain how deep learning can help solve some of the problems that dialogue modelling is facing.  These include: scalable belief tracking, policy optimisation for large action spaces, and data-driven user modelling. I will also briefly advertise an initiative of the Cambridge Dialogue Systems Group to address the problem of evaluation of dialogue systems.
+  > * [slides](https://github.com/DeepPavlov/scai17/raw/master/slides/2018/SCAI2018_gasic.pptx)
   * [Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/), *University of Washington*
   > * **Title**: Understanding the User in Socialbot Conversations 
   > * **Abstract**: Much past research on human-computer dialog has addressed task-oriented scenarios, but there is growing interest in building systems with social interaction capabilities, from companionship chitchat to information and opinion exchange. For systems that emphasize social interaction (e.g. a socialbot), user modeling can be especially important -- people have different tastes in conversation topics as well as different interaction styles. This talk looks at the user in spoken interactions enabled by Sounding Board, a socialbot developed for the 2017 Amazon Alexa Prize competition, which enabled collection of millions of conversations with real users.  We describe mechanisms for characterizing user variation and first steps towards predicting conversational preferences. 
@@ -97,6 +98,7 @@ interactions with the agent — how will it affect existing models?)
   * [Mithun Das Gupta](https://www.linkedin.com/in/mithundasgupta), *Microsoft*
   > * **Title**: Dialogues, Speech and Vision: Communication to make AI more human
   > * **Abstract**: Conversational AI such as Alexa, Siri, Google Home and Cortana are now strongly part of people lives. Numerous non-task oriented agents are also gaining importance such as [Xiaoice](https://en.wikipedia.org/wiki/Xiaoice) and [Ruuh](https://www.facebook.com/Ruuh/). We will talk about the recent efforts going on to make these agents more human. We take a three pronged approach, dialogue, speech and vision to extend the humanness of these agents. In this talk we will touch upon some of the multi-faceted work going on in Microsoft IDC Hyderabad to attack some of these subfields which make AI more human.
+  > * [slides](https://github.com/DeepPavlov/scai17/raw/master/slides/2018/SCAI2018_gupta.pdf)
 
 
 ## Tentative Schedule
@@ -108,7 +110,7 @@ Session 1
 * 10:30–11:00 _Break_
 
 Session 2
-* 11:15–11:55 **Keynote 3: Mithun Das Gupta**
+* 11:15–11:55 **Keynote 3: Mithun Das Gupta**  [(slides)](https://github.com/DeepPavlov/scai17/raw/master/slides/2018/SCAI2018_gupta.pdf)
 * 11:55–12:45 Paper presentations (10 min + 2 min Q/A)
 > * Neural Response Ranking for Social Conversation: A Data-Efficient Approach. **Igor Shalyminov, Ondřej Dušek and Oliver Lemon**
 > * Autonomous Sub-domain Modeling for Dialogue Policy with Hierarchical Deep Reinforcement Learning. **Giovanni Yoko Kristianto, Huiwen Zhang, Bin Tong, Makoto Iwayama and Yoshiyuki Kobayashi**
@@ -117,7 +119,7 @@ Session 2
 * 12:45–14:00 _Lunch break_
 
 Session 3
-* 14:00–14:40 **Keynote 4: Milica Gašić**
+* 14:00–14:40 **Keynote 4: Milica Gašić**  [(slides)](https://github.com/DeepPavlov/scai17/raw/master/slides/2018/SCAI2018_gasic.pptx)
 * 14:40–15:05 Paper presentations (10 min + 2 min Q/A)
 > * A Reinforcement Learning-driven Translation Model for Search-Oriented Conversational Systems. **Wafa Aissa, Laure Soulier and Ludovic Denoyer**
 > * Research Challenges in Building a Voice-based Artificial Personal Shopper - Position Paper. **Nut Limsopatham, Oleg Rokhlenko and David Carmel**
