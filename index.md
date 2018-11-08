@@ -113,7 +113,8 @@ Session 2
 * 11:15–11:55 **Keynote 3: Mithun Das Gupta**  [(slides)](https://github.com/DeepPavlov/scai17/raw/master/slides/2018/SCAI2018_gupta.pdf)
 * 11:55–12:45 Paper presentations (10 min + 2 min Q/A)
 > * Neural Response Ranking for Social Conversation: A Data-Efficient Approach. **Igor Shalyminov, Ondřej Dušek and Oliver Lemon** [(slides)](https://github.com/DeepPavlov/scai17/raw/master/papers/2018/SCAI2018_shalyminov_slides.pdf)
-> * Autonomous Sub-domain Modeling for Dialogue Policy with Hierarchical Deep Reinforcement Learning. **Giovanni Yoko Kristianto, Huiwen Zhang, Bin Tong, Makoto Iwayama and Yoshiyuki Kobayashi**
+> * Autonomous Sub-domain Modeling for Dialogue Policy with Hierarchical Deep Reinforcement Learning. **Giovanni Yoko Kristianto, Huiwen Zhang, Bin Tong, Makoto Iwayama and Yoshiyuki Kobayashi** [(slides)](https://github.com/DeepPavlov/scai17/raw/master/papers/2018/SCAI2018_kristiano_slides.pdf)
+
 > * Building Dialogue Structure from Discourse Tree of a Question. **Boris Galitsky and Dmitry Ilvovsky** [(slides)](https://github.com/DeepPavlov/scai17/raw/master/papers/2018/SCAI2018_ilvovsky_slides.pptx)
 > * A Methodology for Evaluating Interaction Strategies of Task-Oriented Conversational. **Marco Guerini, Sara Falcone and Bernardo Magnini**
 * 12:45–14:00 _Lunch break_
