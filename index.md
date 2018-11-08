@@ -112,16 +112,16 @@ Session 1
 Session 2
 * 11:15–11:55 **Keynote 3: Mithun Das Gupta**  [(slides)](https://github.com/DeepPavlov/scai17/raw/master/slides/2018/SCAI2018_gupta.pdf)
 * 11:55–12:45 Paper presentations (10 min + 2 min Q/A)
-> * Neural Response Ranking for Social Conversation: A Data-Efficient Approach. **Igor Shalyminov, Ondřej Dušek and Oliver Lemon**
+> * Neural Response Ranking for Social Conversation: A Data-Efficient Approach. **Igor Shalyminov, Ondřej Dušek and Oliver Lemon** [(slides)](https://github.com/DeepPavlov/scai17/raw/master/papers/2018/SCAI2018_shalyminov_slides.pdf)
 > * Autonomous Sub-domain Modeling for Dialogue Policy with Hierarchical Deep Reinforcement Learning. **Giovanni Yoko Kristianto, Huiwen Zhang, Bin Tong, Makoto Iwayama and Yoshiyuki Kobayashi**
-> * Building Dialogue Structure from Discourse Tree of a Question. **Boris Galitsky and Dmitry Ilvovsky**
+> * Building Dialogue Structure from Discourse Tree of a Question. **Boris Galitsky and Dmitry Ilvovsky** [(slides)](https://github.com/DeepPavlov/scai17/raw/master/papers/2018/SCAI2018_ilvovsky_slides.pptx)
 > * A Methodology for Evaluating Interaction Strategies of Task-Oriented Conversational. **Marco Guerini, Sara Falcone and Bernardo Magnini**
 * 12:45–14:00 _Lunch break_
 
 Session 3
 * 14:00–14:40 **Keynote 4: Milica Gašić**  [(slides)](https://github.com/DeepPavlov/scai17/raw/master/slides/2018/SCAI2018_gasic.pptx)
 * 14:40–15:05 Paper presentations (10 min + 2 min Q/A)
-> * A Reinforcement Learning-driven Translation Model for Search-Oriented Conversational Systems. **Wafa Aissa, Laure Soulier and Ludovic Denoyer**
+> * A Reinforcement Learning-driven Translation Model for Search-Oriented Conversational Systems. **Wafa Aissa, Laure Soulier and Ludovic Denoyer** [(slides)](https://github.com/DeepPavlov/scai17/raw/master/papers/2018/SCAI2018_aissa_slides.pdf) [(poster)](https://github.com/DeepPavlov/scai17/raw/master/papers/2018/SCAI2018_aissa_poster.pdf)
 > * Research Challenges in Building a Voice-based Artificial Personal Shopper - Position Paper. **Nut Limsopatham, Oleg Rokhlenko and David Carmel**
 * 15:05–16:00 Poster session
 * 15:30–16:00 _Break (overlapping with the poster session)_
