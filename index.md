@@ -22,6 +22,7 @@ and Web Search/IR specialists on the other hand to lay the groundwork for collab
 on search-oriented conversational AI and establish future directions.
 
 The [1st edition](./2017/) of the workshop was co-located with International Conference on the Theory of Information Retrieval (ICTIR 2017).
+
 The [2nd edition](./2018/) of the workshop was co-located with the Conference on Emperical Methods in Natural Language Processing (EMNLP 2018).
 
 ## Topics of Interest
@@ -42,8 +43,8 @@ The [2nd edition](./2018/) of the workshop was co-located with the Conference on
   * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
 
 # Workshop Format
-  * Invited talks.
-  * Panel discussion. You can [send](https://app2.sli.do/event/oojahuue/questions) your suggestions.
+  * Invited talks
+  * Panel discussion: you can [send](https://app2.sli.do/event/oojahuue/questions) your suggestions
   * Breakout session to plan a roadmap for Conversational AI
 
 ## Invited Speakers
