@@ -3,7 +3,7 @@
 **Search-Oriented Conversational AI (SCAI) - WWW'19 Special**
 
 at [The Web Conference 2019](https://www2019.thewebconf.org/), San Francisco,
-May 13-17 (TBD), 2019.
+May 14 2019, 9:00–12:30.
 
 
 More and more information is found and consumed in a conversational form
