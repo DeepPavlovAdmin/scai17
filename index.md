@@ -48,7 +48,15 @@ The [2nd edition](./2018/) of the workshop was co-located with the Conference on
   * Breakout session to plan a roadmap for Conversational AI
 
 ## Invited Speakers
-TBD
+  * [Dilek Hakkani-Tür](https://www.linkedin.com/in/dilek-hakkani-tur-9517543/), *Amazon Alexa AI*
+  * [Larry Heck](https://www.linkedin.com/in/larryheck/), *Samsung Research*
+  * [Zhou Yu](http://zhouyu.cs.ucdavis.edu), *University of California, Davis*
+  
+  Startup participation:
+  * [Eloquent Labs](https://www.eloquent.ai)
+  * [Replika AI](http://replika.ai)
+  
+  More speakers to be announced.
 
 ## Schedule
 TBD 
