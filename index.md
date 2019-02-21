@@ -1,10 +1,10 @@
 # Current workshops
 
-## [3rd edition](/www2019/) (WWW'19 Special)
+### [3rd edition](/www2019/) (WWW'19 Special)
 
 San Francisco, USA May 14 2019, 9:00–12:30.
 
-## [4th edition](/ijcai2019/) (full-day workshop at IJCA-19)
+### [4th edition](/ijcai2019/) (full-day workshop at IJCA-19)
 
  Macao, China, between August 10 and 12, 2019 (exact date TBD).
 
