@@ -6,6 +6,16 @@ defaults:
       path: ""
     values:
       title: "<a href=\"https://scai.info\">SCAI</a> — Search-Oriented Conversational AI"
+      description: ""
+  - scope:
+      path: "ijcai2019"
+    values:
+      title: "<a href=\"https://scai.info\">SCAI</a> — Search-Oriented Conversational AI"
+      description: "co-located with <a href=\"https://www.ijcai19.org\">IJCAI-19</a>"
+  - scope:
+      path: "www2019"
+    values:
+      title: "<a href=\"https://scai.info\">SCAI</a> — Search-Oriented Conversational AI"
       description: "<a href=\"http://www2019.thewebconf.org\">WWW'19</a> special"
   - scope:
       path: "2018"

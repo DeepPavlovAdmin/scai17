@@ -1,12 +1,11 @@
 # About
 
-**Search-Oriented Conversational AI (SCAI)**
+**Search-Oriented Conversational AI (SCAI) - WWW'19 Special**
 
-> Current workshops:
->
-> * [3rd edition](/www2019/) (WWW'19 Special): San Francisco, USA
->   May 14 2019, 9:00–12:30.
-> * [4th edition](/ijcai2019/) (full-day workshop at IJCA-19): Macao, China, between August 10 and 12, 2019 (exact date TBD).
+at [The Web Conference 2019](https://www2019.thewebconf.org/), San Francisco, USA,
+May 14 2019, 9:00–12:30.
+
+> Click [here](/ijcai2019/) if you are looking for the IJCAI-19 edition, a full-day workshop featuring peer-reviewed contributions ([call for papers](/ijcai2019/cfp/)) held in Macao, China in August 10–12, 2019.
 
 More and more information is found and consumed in a conversational form
 rather than using traditional search engines. Chatbots, personal assistants
@@ -20,12 +19,13 @@ conversationalization. Yet, we believe more can be done for theory and
 practice of conversation-based search and search-based dialogues.
 
 This workshop aims to bring together ML and NLP researchers on one hand
-and Web Search/IR specialists on the other hand to lay the groundwork for collaboration
-on search-oriented conversational AI and establish future directions.
+and Web Search/IR specialists on the other hand to lay the groundwork for collaboration on search-oriented conversational AI and establish future directions.
 
 The [1st edition](/2017/) of the workshop was co-located with International Conference on the Theory of Information Retrieval (ICTIR 2017).
 
 The [2nd edition](/2018/) of the workshop was co-located with the Conference on Emperical Methods in Natural Language Processing (EMNLP 2018).
+
+The [4th edition](/ijcai2019/) will be held together with the 28th International Joint Conference on Artificial Intelligence (IJCAI-19) in August 2019.
 
 ## Topics of Interest
    * Surfacing search results in form of a dialogue (how to present information that search gives us in a form of a dialogue? Which model to use for dialogue-state tracking?
@@ -43,3 +43,22 @@ The [2nd edition](/2018/) of the workshop was co-located with the Conference on 
   * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
   * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google AI*, Zürich
   * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
+
+# Workshop Format
+  * Invited talks
+  * Panel discussion: you can [send](https://app2.sli.do/event/oojahuue/questions) your suggestions
+  * Breakout session to plan a roadmap for Conversational AI
+
+## Invited Speakers
+  * [Dilek Hakkani-Tür](https://www.linkedin.com/in/dilek-hakkani-tur-9517543/), *Amazon Alexa AI*
+  * [Larry Heck](https://www.linkedin.com/in/larryheck/), *Samsung Research*
+  * [Zhou Yu](http://zhouyu.cs.ucdavis.edu), *University of California, Davis*
+
+  Startup participation:
+  * [Eloquent Labs](https://www.eloquent.ai)
+  * [Replika AI](http://replika.ai)
+
+  More speakers to be announced.
+
+## Schedule
+TBD 
