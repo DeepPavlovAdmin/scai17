@@ -20,7 +20,7 @@ This workshop aims to bring together researchers from the NLP, Machine
 Learning, and IR communities to lay the ground for search-oriented
 conversational AI and establish future directions and collaborations.
 
-The [1st edition](./2017/) of the workshop was co-located with International Conference on the Theory of Information Retrieval (ICTIR 2017).
+The [1st edition](2017/) of the workshop was co-located with International Conference on the Theory of Information Retrieval (ICTIR 2017).
 
 ## Topics of Interest
    * Surfacing search results or other information in form of a dialogue
