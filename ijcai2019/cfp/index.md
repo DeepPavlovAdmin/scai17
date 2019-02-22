@@ -1,6 +1,6 @@
 # CALL FOR PAPERS
 
-The 2nd International Workshop on Search-Oriented Conversational AI (SCAI)
+The 4th International Workshop on Search-Oriented Conversational AI (SCAI)
 
 
 at [IJCAI-19](https://www.ijcai19.org/workshops.html), Macao 🇲🇴, China, August 10–12 (exact date TBD).
