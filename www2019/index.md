@@ -55,8 +55,9 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
   * [Zhou Yu](http://zhouyu.cs.ucdavis.edu), *University of California, Davis*
 
   Startup participation:
-  * [Eloquent Labs](https://www.eloquent.ai)
-  * [Replika AI](http://replika.ai)
+  * [Eloquent Labs](https://www.eloquent.ai): Gabor Angeli
+  * [Replika AI](https://replika.ai)
+  * [Rulai](https://rul.ai): Yi Zhang
 
   More speakers to be announced.
 
