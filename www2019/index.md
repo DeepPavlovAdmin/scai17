@@ -58,6 +58,7 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
   * [Eloquent Labs](https://www.eloquent.ai): Gabor Angeli
   * [Replika AI](https://replika.ai)
   * [Rulai](https://rul.ai): Yi Zhang
+  * [Mosaix](http://www.mosaix.ai): Ni Lao
 
   More speakers to be announced.
 
