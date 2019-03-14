@@ -4,7 +4,7 @@
 
 at [IJCAI-19](https://www.ijcai19.org/workshops.html), Macao 🇲🇴, China, August 10–12 (exact date TBD).
 
-> Click [here](/www2019/) if you are looking for the WWW'19 special edition, a half-day workshop with amazing intited speakers and panel discussions held in San Francisco, USA on May 14 2019, 09:00–12:30.
+> Click [here](https://scai.info) to go to the main page.
 
 More and more information is found and consumed in a conversational form
 rather than using traditional search engines. Chatbots, personal assistants
