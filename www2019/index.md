@@ -5,7 +5,7 @@
 at [The Web Conference 2019](https://www2019.thewebconf.org/), San Francisco, USA,
 May 14 2019, 9:00–12:30.
 
-> Click [here](/ijcai2019/) if you are looking for the IJCAI-19 edition, a full-day workshop featuring peer-reviewed contributions ([call for papers](/ijcai2019/cfp/)) held in Macao, China in August 10–12, 2019.
+> Click [here](https://scai.info) to go to the main page.
 
 More and more information is found and consumed in a conversational form
 rather than using traditional search engines. Chatbots, personal assistants
