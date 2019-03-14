@@ -56,7 +56,7 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
 
   Startup participation:
   * [Eloquent Labs](https://www.eloquent.ai): Gabor Angeli
-  * [Replika AI](https://replika.ai)
+  * [Replika AI](https://replika.ai): Nicolas Ivanov
   * [Rulai](https://rul.ai): Yi Zhang
   * [Mosaix](http://www.mosaix.ai): Ni Lao
 
