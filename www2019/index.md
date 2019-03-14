@@ -46,7 +46,7 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
 
 # Workshop Format
   * Invited talks
-  * Panel discussion: you can [send](https://app2.sli.do/event/oojahuue/questions) your suggestions
+  * Panel discussion: you can [send](https://admin.sli.do/event/soadmtyz/questions) your suggestions
   * Breakout session to plan a roadmap for Conversational AI
 
 ## Invited Speakers
