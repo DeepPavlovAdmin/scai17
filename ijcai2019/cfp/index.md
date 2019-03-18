@@ -25,7 +25,7 @@ practice of conversation-based search and search-based dialogues.
 The aim of this edition of the SCAI workshop is to bring together researchers from the Natural Language Processing (NLP), Artificial Intelligence (AI), and Information Retrieval (IR) communities to investigate future directions of research in the area of search-oriented conversational systems. The focus of this installment seeks to broaden participation between research and industry. The previous instances identified a number of research areas related which warrant additional deeper exploration. To provide a broad forum we solicit a variety of research and position paper submissions. 
 
 ## TOPICS OF INTERESTS
-   * Surfacing search results or other information in form of a dialogue
+* Surfacing search results or other information in form of a dialogue
   how to present information coming from search in a form of a dialogue
   how ensure smooth transition between dialog turns
   which model to use for dialog-state tracking
@@ -40,13 +40,13 @@ The aim of this edition of the SCAI workshop is to bring together researchers fr
 
 
 ## IMPORTANT DATES
-  * Submission:  TBD
-  * Notification: TBD
-  * Camera-ready version: TBD
+  * Submission: Apr 12, 2019
+  * Notification: May 10, 2019
+  * Camera-ready version: May 24, 2019
   * Workshop: August 10–12 (exact date TBD)
 
 ## SUBMISSIONS
-  * Format: TBD
+  * Format: up to 6 pages of content in the [IJCAI format](https://www.ijcai.org/authors_kit), plus one page for references.
   * Submission URL: TBD
 
 ## ORGANIZERS
