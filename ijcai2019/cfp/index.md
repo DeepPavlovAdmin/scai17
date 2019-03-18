@@ -22,7 +22,15 @@ processing, this appears to be the right foundation to power search
 conversationalization. Yet, we believe more can be done for theory and
 practice of conversation-based search and search-based dialogues.
 
-The aim of this edition of the SCAI workshop is to bring together researchers from the Natural Language Processing (NLP), Artificial Intelligence (AI), and Information Retrieval (IR) communities to investigate future directions of research in the area of search-oriented conversational systems. The focus of this installment seeks to broaden participation between research and industry. The previous instances identified a number of research areas related which warrant additional deeper exploration. To provide a broad forum we solicit a variety of research and position paper submissions. 
+The aim of this edition of the SCAI workshop is to bring together researchers
+from the Natural Language Processing (NLP), Artificial Intelligence (AI),
+and Information Retrieval (IR) communities to investigate future directions
+of research in the area of search-oriented conversational systems.
+The focus of this installment seeks to broaden participation between
+research and industry. The previous instances identified a number
+of research areas related which warrant additional deeper exploration.
+To provide a broad forum we solicit a variety of research
+and position paper submissions. 
 
 ## TOPICS OF INTERESTS
 * Surfacing search results or other information in form of a dialogue
@@ -36,7 +44,8 @@ The aim of this edition of the SCAI workshop is to bring together researchers fr
 * (Deep) Reinforcement Learning for Conversational AI
 * Voice as Input (when we consider not only text input, but also voice
   interactions with the agent — how will it affect existing models?)
-* Specialized applications and uses cases for conversational search (specialized domains in health, finance, travel, etc.)
+* Specialized applications and uses cases for conversational search
+  (specialized domains in health, finance, travel, etc.)
 
 
 ## IMPORTANT DATES
@@ -46,7 +55,8 @@ The aim of this edition of the SCAI workshop is to bring together researchers fr
   * Workshop: August 10–12 (exact date TBD)
 
 ## SUBMISSIONS
-  * Format: up to 6 pages of content in the [IJCAI format](https://www.ijcai.org/authors_kit), plus one page for references.
+  * Format: up to 6 pages of content in the [IJCAI format](https://www.ijcai.org/authors_kit),
+    plus one page for references.
   * Submission URL: TBD
 
 ## ORGANIZERS
