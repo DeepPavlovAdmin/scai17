@@ -50,17 +50,15 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
   * Breakout session to plan a roadmap for Conversational AI
 
 ## Invited Speakers
-  * [Dilek Hakkani-Tür](https://www.linkedin.com/in/dilek-hakkani-tur-9517543/), *Amazon Alexa AI*
   * [Larry Heck](https://www.linkedin.com/in/larryheck/), *Samsung Research*
   * [Zhou Yu](http://zhouyu.cs.ucdavis.edu), *University of California, Davis*
+  * [Jayesh Govindarajan](https://www.linkedin.com/in/jayeshg/), *Salesforce*
 
   Startup participation:
   * [Eloquent Labs](https://www.eloquent.ai): Gabor Angeli
   * [Replika AI](https://replika.ai): Nicolas Ivanov
   * [Rulai](https://rul.ai): Yi Zhang
   * [Mosaix](http://www.mosaix.ai): Ni Lao
-
-  More speakers to be announced.
 
 ## Schedule
 TBD 
