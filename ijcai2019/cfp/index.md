@@ -33,18 +33,18 @@ To provide a broad forum we solicit a variety of research
 and position paper submissions. 
 
 ## TOPICS OF INTERESTS
-* Surfacing search results or other information in form of a dialogue
-  how to present information coming from search in a form of a dialogue
-  how ensure smooth transition between dialog turns
-  which model to use for dialog-state tracking
-* Evaluation of Search-Oriented Conversational AI — From
-  Conversational AI to Personal Assistants
-* Personalization for conversational AI and for its evaluation
-* Deep Learning for Conversational AI
-* (Deep) Reinforcement Learning for Conversational AI
-* Voice as Input (when we consider not only text input, but also voice
-  interactions with the agent — how will it affect existing models?)
-* Specialized applications and uses cases for conversational search
+  * Surfacing search results or other information in form of a dialogue
+	how to present information coming from search in a form of a dialogue
+	how ensure smooth transition between dialog turns
+	which model to use for dialog-state tracking
+  * Evaluation of Search-Oriented Conversational AI — From
+	Conversational AI to Personal Assistants
+  * Personalization for conversational AI and for its evaluation
+  * Deep Learning for Conversational AI
+  * (Deep) Reinforcement Learning for Conversational AI
+  * Voice as Input (when we consider not only text input, but also voice
+	interactions with the agent — how will it affect existing models?)
+  * Specialized applications and uses cases for conversational search
   (specialized domains in health, finance, travel, etc.)
 
 
@@ -60,7 +60,7 @@ and position paper submissions.
   * Submission URL: https://easychair.org/conferences/?conf=scai2019
 
 ## ORGANIZERS
-- Jeff Dalton (University of Glasgow)
-- Julia Kiseleva (Microsoft Research & AI)
-- Aleksandr Chuklin (Google AI)
-- Mikhail Burtsev (MIPT)
+  * Jeff Dalton (University of Glasgow)
+  * Julia Kiseleva (Microsoft Research & AI)
+  * Aleksandr Chuklin (Google AI)
+  * Mikhail Burtsev (MIPT)
