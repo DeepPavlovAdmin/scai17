@@ -49,9 +49,9 @@ and position paper submissions.
 
 
 ## IMPORTANT DATES
-  * Submission: Apr 30, 2019
-  * Notification: May 18, 2019
-  * Camera-ready version: June 1, 2019
+  * Submission: May 12, 2019
+  * Notification: June 2, 2019
+  * Camera-ready version: June 16, 2019
   * Workshop: August 10–12 (exact date TBD)
 
 ## SUBMISSIONS
