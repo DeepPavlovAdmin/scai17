@@ -57,7 +57,7 @@ The [3rd edition](/www2019/) (WWW'19 special) of the workshop is co-located with
 
 # Workshop Format
   * Invited Speakers and Oral Presentation
-  * Panel Discussion. You can [send](https://app2.sli.do/event/oojahuue/questions) your suggestions.
+  * Panel Discussion. You can [send](https://app2.sli.do/event/qqcfm2iy/questions) your suggestions.
   * Breakout Session to plan a roadmap for Conversational AI
   * Poster Session
 
