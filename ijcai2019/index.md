@@ -40,13 +40,14 @@ The [3rd edition](/www2019/) (WWW'19 special) of the workshop is co-located with
    * Specialized applications and uses cases for conversational search (specialized domains in health, finance, travel, etc.)
 
 ## Submissions
-  * Format: TBD
-  * Submission URL: TBD
+  * Format: up to 6 pages of content in the [IJCAI format](https://www.ijcai.org/authors_kit),
+    plus one page for references.
+  * Submission URL: https://easychair.org/conferences/?conf=scai2019
 
 # Important Dates
-  * Submission: TBD
-  * Notification: TBD
-  * Camera-ready version: TBD
+  * Submission: May 12, 2019
+  * Notification: June 2, 2019
+  * Camera-ready version: June 16, 2019
   * Workshop: August 10–12 (exact date TBD)
 
 # Organizers
