@@ -57,7 +57,7 @@ and position paper submissions.
 ## SUBMISSIONS
   * Format: up to 6 pages of content in the [IJCAI format](https://www.ijcai.org/authors_kit),
     plus one page for references.
-  * Submission URL: https://easychair.org/conferences/?conf=scai2019
+  * Submission URL: [https://easychair.org/conferences/?conf=scai2019](https://easychair.org/conferences/?conf=scai2019)
 
 ## ORGANIZERS
   * Jeff Dalton (University of Glasgow)
