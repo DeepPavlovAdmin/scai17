@@ -62,3 +62,7 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
 
 ## Schedule
 TBD 
+
+## Questions
+
+<iframe src="https://app.sli.do/event/soadmtyz" height="100%" width="100%"></iframe>
