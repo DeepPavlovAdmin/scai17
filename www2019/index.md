@@ -65,4 +65,5 @@ TBD
 
 ## Questions
 
-<iframe src="https://app.sli.do/event/soadmtyz" height="100%" width="100%"></iframe>
+<iframe src="https://app.sli.do/event/soadmtyz" height="800px" width="100%"></iframe>
+
