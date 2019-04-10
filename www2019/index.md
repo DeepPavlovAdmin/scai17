@@ -57,6 +57,9 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
   Startup participation:
   * [Eloquent Labs](https://www.eloquent.ai): Gabor Angeli
   * [Replika AI](https://replika.ai): Nicolas Ivanov
+  > * **Title**: Replika - AI that Cares
+  > * **Abstract**: Replika is a chatbot application that aims to make people feel better via meaningful and supportive conversations. With over 100K monthly active users Replika has a great opportunity to collect a vast amount of conversational data (user-chatbot conversations) to later use this data to enhance its own models. Under the hood Replika employs different types of modern approaches to building conversational chatbots, ranging from traditional rules-based models to freshly adopted BERT-based selective and RL-boosted generative models. The presentation will touch on each component of Replika’s dialog system, demonstrating their ability to work smoothly in ensemble in order to solve one of the most important real-life problems of nowadays.
+  
   * [Rulai](https://rul.ai): Yi Zhang
   * [Mosaix](http://www.mosaix.ai): Ni Lao
 
