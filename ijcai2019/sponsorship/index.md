@@ -25,4 +25,4 @@ Sponsor benefits options (depends on the support level, see below):
 
 ## Contact
 
-Feel free to reach out to [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/) (`jeff.dalton [œ] glasgow.ac.uk`) with any questions regarding sponsorship.
+Feel free to reach out to [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/) `jeff.dalton [œ] glasgow.ac.uk` with any questions regarding sponsorship.
