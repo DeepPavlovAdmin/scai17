@@ -8,13 +8,15 @@ at [IJCAI-19](https://www.ijcai19.org/workshops.html), Macao 🇲🇴, China, Au
 
 ## Sponsorship Levels
 
-Sponsor benefits options:
+Sponsor benefits options (depends on the support level, see below):
 
 (a)  acknowledgement in a particular category (Silver, Gold, or Platinum) and banner on our website
 
-(b)  promotional material (you can decided what it can be, I guess flyers or booklets) for the workshop participants
+(b)  promotional material (flyers or booklets) for the workshop participants
 
 (c)  5 min 'sponsored lighting talk'
+
+### Levels:
 
 - **Bronze** level sponsoring is an option only available for start-ups and SMEs and is meant to attract local industry. 
 - **Silver** level sponsors get recognition as a silver sponsor on our website without further benefits. Basically, option (a).
@@ -23,6 +25,4 @@ Sponsor benefits options:
 
 ## Contact
 
-Feel free to reach out to Jeff Dalton with any questions regarding sponsorship.
-
-His contact details are available at [his academic page](http://www.dcs.gla.ac.uk/~jeff/).
+Feel free to reach out to [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/) (`jeff.dalton [œ] glasgow.ac.uk`) with any questions regarding sponsorship.
