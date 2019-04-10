@@ -2,8 +2,9 @@
 
 The 4th International Workshop on Search-Oriented Conversational AI (SCAI)
 
-
 at [IJCAI-19](https://www.ijcai19.org/workshops.html), Macao 🇲🇴, China, August 10–12 (exact date TBD).
+
+> Click [here](https://scai.info) to go to the SCAI main page.
 
 <https://scai.info>
 
@@ -45,7 +46,7 @@ and position paper submissions.
   * Voice as Input (when we consider not only text input, but also voice
 	interactions with the agent — how will it affect existing models?)
   * Specialized applications and uses cases for conversational search
-  (specialized domains in health, finance, travel, etc.)
+    (specialized domains in health, finance, travel, etc.)
 
 
 ## IMPORTANT DATES
