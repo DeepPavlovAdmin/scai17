@@ -59,8 +59,10 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
   * [Replika AI](https://replika.ai): Nicolas Ivanov
   > * **Title**: Replika - AI that Cares
   > * **Abstract**: Replika is a chatbot application that aims to make people feel better via meaningful and supportive conversations. With over 100K monthly active users Replika has a great opportunity to collect a vast amount of conversational data (user-chatbot conversations) to later use this data to enhance its own models. Under the hood Replika employs different types of modern approaches to building conversational chatbots, ranging from traditional rules-based models to freshly adopted BERT-based selective and RL-boosted generative models. The presentation will touch on each component of Replika’s dialog system, demonstrating their ability to work smoothly in ensemble in order to solve one of the most important real-life problems of nowadays.
-  
+
   * [Rulai](https://rul.ai): Yi Zhang
+  > * **About**: Rulai is a new Enterprise Conversational Computing Platform provider. Rooted in academia, the founding team has published over 400 research papers and filed over 80 patents in AI. Its SaaS platform enables companies to build automated chatbots for customer service, marketing, sales, logistics, and HR use cases and has been deployed across a wide variety of industries. Rulai-powered bots help companies automate many human-centered processes to create a fast and frictionless experience for employees and customers. Its self-serve platform allows business users to create and evolve bots with minimal use of precious IT resources. Rulai was recently recognized by Gartner, Forrester, and Bloomberg.'
+
   * [Mosaix](http://www.mosaix.ai): Ni Lao
   > * **Title**: Weakly Supervised Natural Language Understanding (WSNLU)
   > * **Abstract**: In this talk, I will introduce recent work in applying weak supervision and reinforcement learning to Questions Answering (QA) systems. The discussion will include how semantic parsing tasks for natural language queries are converted to computation steps on knowledge graphs or data tables and produce the expected answers. State-of-the-art results can be achieved by novel short-term memory structures for sequence models and properly leverage long term memory in reinforcement learning algorithms. 
