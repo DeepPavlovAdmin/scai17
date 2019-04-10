@@ -62,6 +62,8 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
   
   * [Rulai](https://rul.ai): Yi Zhang
   * [Mosaix](http://www.mosaix.ai): Ni Lao
+  > * **Title**: Weakly Supervised Natural Language Understanding (WSNLU)
+  > * **Abstract**: In this talk, I will introduce recent work in applying weak supervision and reinforcement learning to Questions Answering (QA) systems. The discussion will include how semantic parsing tasks for natural language queries are converted to computation steps on knowledge graphs or data tables and produce the expected answers. State-of-the-art results can be achieved by novel short-term memory structures for sequence models and properly leverage long term memory in reinforcement learning algorithms. 
 
 ## Schedule
 TBD 
