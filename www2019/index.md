@@ -1,3 +1,5 @@
+> Please, refer to TheWebConf [Registration Page](https://www2019.thewebconf.org/registration) for details on registration package options.
+
 # About
 
 **Search-Oriented Conversational AI (SCAI) - WWW'19 Special**
@@ -5,7 +7,7 @@
 at [The Web Conference 2019](https://www2019.thewebconf.org/), San Francisco, USA,
 May 14 2019, 9:00–12:30.
 
-> Click [here](https://scai.info) to go to the main page.
+> Click [here](https://scai.info) to go to the main page of the SCAI series.
 
 More and more information is found and consumed in a conversational form
 rather than using traditional search engines. Chatbots, personal assistants
