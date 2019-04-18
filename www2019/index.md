@@ -57,8 +57,11 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
 
   * [Jayesh Govindarajan](https://www.linkedin.com/in/jayeshg/), *Salesforce*
 
-  Startup participation:
+  Startups:
   * [Eloquent Labs](https://www.eloquent.ai): Gabor Angeli
+  > * **Title**: Mimic and Rephrase: Reflective listening in open-ended dialogue
+  > * **Abstract**: Reflective  listening—demonstrating  that  you have  heard  your  conversational  partner—is key  to  effective  communication.   Expert  human communicators often mimic and rephrase their  conversational  partner,   e.g.,   when  responding  to  sentimental  stories  or  to  questions they don’t know the answer to.   We introduce a new task and an associated dataset wherein dialogue agents must similarly mimic and rephrase a user’s request to communicate sympathy (I’m sorry to hear that) or lack of knowledge (I do not know that). We find that a syntax-aware rule-based baseline struggles to identify relevant subclauses or to handle non-trivial  constructions  like conditional clauses. To handle these challenges, we propose a simple end-to-end neural model: an LSTM with attention  and  a  copy  mechanism. In  a  human evaluation the neural model output is preferred  significantly  more  often  than  the  rule-based baseline and almost as often as a human-generated response, suggesting that this generation task is a practical addition to real world conversational agents.
+
   * [Replika AI](https://replika.ai): Nicolas Ivanov
   > * **Title**: Replika - AI that Cares
   > * **Abstract**: Replika is a chatbot application that aims to make people feel better via meaningful and supportive conversations. With over 100K monthly active users Replika has a great opportunity to collect a vast amount of conversational data (user-chatbot conversations) to later use this data to enhance its own models. Under the hood Replika employs different types of modern approaches to building conversational chatbots, ranging from traditional rules-based models to freshly adopted BERT-based selective and RL-boosted generative models. The presentation will touch on each component of Replika’s dialog system, demonstrating their ability to work smoothly in ensemble in order to solve one of the most important real-life problems of nowadays.
