@@ -56,6 +56,7 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
   > * **Abstract**: End-to-end methods are popular in training dialog systems recently, as such framework is easier to implement. However, similar to previous traditional methods, end-to-end methods still require at least a thousand labeled dialogs to obtain a decent system. In real-world scenarios, such as customer services, it is extremely difficult to adopt any of the neural-net based end-to-end training algorithms due to the lack of a large amount of labeled data. Obtaining human-human dialogs are costly. It is also difficult to use crowd workers to annotate customer dialogs due to data privacy. Building dialog systems with less data and fewer labels is an area that calls for better machine learning algorithms. We will talk about three work on building end-to-end task-oriented dialog systems using a reduced amount of supervision leveraging unsupervised learning, transfer learning and reinforcement learning.
 
   * [Jayesh Govindarajan](https://www.linkedin.com/in/jayeshg/), *Salesforce*
+  * [Amarnag Subramanya](https://scholar.google.com/citations?user=DNPqaH0AAAAJ&hl=en), Google AI
 
   Startups:
   * [Eloquent Labs](https://www.eloquent.ai): Gabor Angeli
