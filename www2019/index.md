@@ -60,7 +60,6 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
   * [Jayesh Govindarajan](https://www.linkedin.com/in/jayeshg/), *Salesforce*
   > * **Title**: The Conversational Enterprise
   > * **Abstract**: The nature of conversations with and within the enterprise differ in significant ways from typical daily interactions with virtual assistants, in that they are more task oriented, less exploratory and need to evoke competence. To build enterprise grade conversational system requires an understanding of both the mechanics of user interactions as well as integrations with backend task execution systems. In this talk we will layout a canonical conversational flow along with the underlying NLP systems employed to execute broad, multi-step tasks such as providing customer service or conducting a sales call. We discuss a general typology of conversations inferred from analyzing these rich customer-company interactions. We will also share how the Salesforce has applied these learnings to design a simple “Conversational Model” that uses RNNs to keep track of conversational state. And finally, delve into the Salesforce Agent Assist AI service, which applies the deep learning conversational model to first learn and then suggest context-aware responses for customer service professionals.
-  * [Amarnag Subramanya](https://scholar.google.com/citations?user=DNPqaH0AAAAJ&hl=en), Google AI
 
   Startups:
   * [Eloquent Labs](https://www.eloquent.ai): Gabor Angeli
