@@ -43,7 +43,7 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
 # Organizers
   * [Julia Kiseleva](http://juliakiseleva.com), *Microsoft Research & AI*, Seattle
   * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
-  * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google AI*, Zürich
+  * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google Research*, Zürich
   * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
 
 # Workshop Format

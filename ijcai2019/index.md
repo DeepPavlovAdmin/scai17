@@ -53,7 +53,7 @@ The [3rd edition](/www2019/) (WWW'19 special) of the workshop is co-located with
 # Organizers
   * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
   * [Julia Kiseleva](http://juliakiseleva.com), *Microsoft Research & AI*, Seattle
-  * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google AI*, Zürich
+  * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google Research*, Zürich
   * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
 
 # Workshop Format
