@@ -79,7 +79,7 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
   > * **Abstract**: In this talk, I will introduce recent work in applying weak supervision and reinforcement learning to Questions Answering (QA) systems. The discussion will include how semantic parsing tasks for natural language queries are converted to computation steps on knowledge graphs or data tables and produce the expected answers. State-of-the-art results can be achieved by novel short-term memory structures for sequence models and properly leverage long term memory in reinforcement learning algorithms. 
 
 ## Schedule
-TBD 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXyywonUIOKtBPucNr0PIpKWgZLzjEvJkJcWMTCWoPp7qrYskQfCQn-O9-zbJn_yH-6l_KjlqMX1wL/pubhtml?gid=1385852677&amp;single=true&amp;widget=true&amp;headers=false" height="300px" width="100%"></iframe> 
 
 ## Questions
 
