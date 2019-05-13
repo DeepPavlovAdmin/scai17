@@ -6,8 +6,8 @@ San Francisco, USA May 14 2019, 9:00–12:30.
 
 ### [4th edition](/ijcai2019/) (full-day workshop at IJCAI-19)
 
-Macao, China, between August 10 and 12, 2019 (exact date TBD).
- 
+Macao, China, between August 12, 2019.
+
 # Past workshops
   * The [1st edition](/2017/) of the workshop was co-located with International Conference on the Theory of Information Retrieval (ICTIR 2017).
   * The [2nd edition](/2018/) of the workshop was co-located with the Conference on Emperical Methods in Natural Language Processing (EMNLP 2018).
