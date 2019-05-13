@@ -45,9 +45,9 @@ The [3rd edition](/www2019/) (WWW'19 special) of the workshop is co-located with
   * Submission URL: [https://easychair.org/conferences/?conf=scai2019](https://easychair.org/conferences/?conf=scai2019)
 
 # Important Dates
-  * Submission: May 12, 2019
-  * Notification: June 2, 2019
-  * Camera-ready version: June 16, 2019
+  * Submission: ~~May 12~~  May 19, 2019
+  * Notification: ~~June 2~~  June 5, 2019
+  * Camera-ready version: ~~June 16~~  June 19, 2019
   * Workshop: August 12
 
 # Organizers
