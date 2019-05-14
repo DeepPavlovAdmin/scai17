@@ -27,7 +27,7 @@ The [1st edition](/2017/) of the workshop was co-located with International Conf
 
 The [2nd edition](/2018/) of the workshop was co-located with the Conference on Emperical Methods in Natural Language Processing (EMNLP 2018).
 
-The [4th edition](/ijcai2019/) will be held together with the 28th International Joint Conference on Artificial Intelligence (IJCAI-19) in August 2019.
+The [4th edition](/ijcai2019/) will be held together with the 28th International Joint Conference on Artificial Intelligence (IJCAI-19) in August 2019. **Extended paper deadline: May 19, 2019**
 
 ## Topics of Interest
    * Surfacing search results in form of a dialogue (how to present information that search gives us in a form of a dialogue? Which model to use for dialogue-state tracking?
@@ -54,7 +54,7 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
 ## Invited Speakers
   * [Larry Heck](https://www.linkedin.com/in/larryheck/), *Samsung Research*
   > * **Title**: The Conversational Web
-  > * **Abstract**: TBD
+  > * **Abstract**: We are in the "era of Conversational AI". Through the combination of natural language (spoken and written) with gesture, touch, and gaze, the conversational AI in modern virtual personal assistants (Siri, Alexa, Google Assistant, Bixby) can help you complete online tasks, find what you want, and answer any question as naturally as having a conversation – anytime, anywhere. While much progress has been made in recent years, building conversational AI systems still requires large volumes of annotated training data that is often difficult to obtain. This talk explores the emergence of the Conversational Web: an approach to address this challenge through the combination of what is traditionally considered web search with conversational AI.  First, this talk will discuss how the Conversational Web approach leverages the massive query click stream from Web search to bootstrap conversational AI systems. Second, the talk will discuss how the Conversational Web approach also leverages context (e.g., visual, gesture, location, knowledge). With these emerging methods, the Conversational Web  is showing significant promise towards creating deep, broad and seamless conversational experiences across our lives.
 
   * [Zhou Yu](http://zhouyu.cs.ucdavis.edu), *University of California, Davis*
   > * **Title**: Building dialog systems with less supervision
