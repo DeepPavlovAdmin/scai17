@@ -1,5 +1,3 @@
-> Please, refer to TheWebConf [Registration Page](https://www2019.thewebconf.org/registration) for details on registration package options.
-
 # About
 
 **Search-Oriented Conversational AI (SCAI) - WWW'19 Special**
@@ -90,8 +88,3 @@ The [4th edition](/ijcai2019/) will be held together with the 28th International
 
 ## Schedule
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQXyywonUIOKtBPucNr0PIpKWgZLzjEvJkJcWMTCWoPp7qrYskQfCQn-O9-zbJn_yH-6l_KjlqMX1wL/pubhtml?gid=1385852677&amp;single=true&amp;widget=true&amp;headers=false" height="300px" width="100%"></iframe> 
-
-## Questions
-
-<iframe src="https://app.sli.do/event/soadmtyz" height="800px" width="100%"></iframe>
-
