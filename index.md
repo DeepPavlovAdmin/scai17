@@ -2,7 +2,9 @@
 
 ### [4th edition](/ijcai2019/) (IJCAI-19)
 
-Macao 🇲🇴, China, August 12, 2019. **Paper deadline (extended): May 19, 2019** ([Anywhere on Earth 🌎 ](https://time.is/Anywhere_on_Earth))
+Macao 🇲🇴, China, August 12, 2019.
+
+**Paper deadline (extended): May 19, 2019** ([Anywhere on Earth 🌎 ](https://time.is/Anywhere_on_Earth))
 
 # Past Workshops
   * The [1st edition](/2017/) of the workshop was co-located with International Conference on the Theory of Information Retrieval (ICTIR 2017).
