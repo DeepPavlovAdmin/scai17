@@ -1,16 +1,13 @@
-# Current workshops
+# Current Edition
 
-### [3rd edition](/www2019/) (WWW'19 Special)
+### [4th edition](/ijcai2019/) (IJCAI-19)
 
-San Francisco, USA May 14 2019, 9:00–12:30.
+Macao 🇲🇴, China, August 12, 2019. **Paper deadline (extended): May 19, 2019** ([Anywhere on Earth 🌎 ](https://time.is/Anywhere_on_Earth))
 
-### [4th edition](/ijcai2019/) (full-day workshop at IJCAI-19)
-
-Macao, China, between August 12, 2019. **Paper deadline (extended): May 19, 2019**
-
-# Past workshops
+# Past Workshops
   * The [1st edition](/2017/) of the workshop was co-located with International Conference on the Theory of Information Retrieval (ICTIR 2017).
   * The [2nd edition](/2018/) of the workshop was co-located with the Conference on Emperical Methods in Natural Language Processing (EMNLP 2018).
+  * The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-located with The Web Conference 2019 (TheWebConf 2019).
 
 # About
 
