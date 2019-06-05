@@ -57,6 +57,16 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
   * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google Research*, Zürich
   * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
 
+# Program Committee
+  * Mikhail Arkhipov, *MIREA - Russian Technological University*
+  * Ondřej Dušek, *Charles University*
+  * Tomp Kenter, *Google*
+  * Valentin Malykh, *MIPT*
+  * Leonid Pugachev, *MIPT*
+  * Igor Shalyminov, *Heriot-Watt University*
+  * Damiano Spina, *RMIT University*
+  * Hamed Zamani, *University of Massachusetts Amherst*
+
 # Workshop Format
   * Invited Speakers and Oral Presentation
   * Panel Discussion. You can [send](https://app2.sli.do/event/qqcfm2iy/questions) your suggestions.
