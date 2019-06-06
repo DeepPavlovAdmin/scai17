@@ -80,7 +80,7 @@ TBD
 
 TBD
 
-##Accepted papers:
+## Accepted papers:
 
 * Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: _SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_
 * [Vishwajeet Kumar](https://www.cse.iitb.ac.in/~vishwajeet/), [Ganesh Ramakrishnan](http://www.cse.iitb.ac.in/~ganesh) and [Yuan-Fang Li](http://www.csse.monash.edu.au/~yli/): _Putting the Horse Before the Cart: A Generator-Evaluator Framework for Question Generation from Text_
