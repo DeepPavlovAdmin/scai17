@@ -78,7 +78,12 @@ TBD
 
 
 ## Schedule
-TBD
+Accepted papers:
+
+* Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: _SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_
+* [Vishwajeet Kumar](https://www.cse.iitb.ac.in/~vishwajeet/), [Ganesh Ramakrishnan](http://www.cse.iitb.ac.in/~ganesh) and [Yuan-Fang Li](http://www.csse.monash.edu.au/~yli/): _Putting the Horse Before the Cart: A Generator-Evaluator Framework for Question Generation from Text_
+* [Rajhans Samdani](http://www.rsamdani.com/), Ankit Goyal, Pierre Rappolt and [Pratyus Patnaik](https://www.pratyus.com/): _Practical User Feedback-driven Internal Search Using Online Learning to Rank_
+* Yangjun Zhang, Pengjie Ren and [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/): _Improving Background Based Conversation with Context-aware Knowledge Pre-selection_
 
 ## Questions
 
