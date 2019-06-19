@@ -2,7 +2,9 @@
 
 The 4th International Workshop on Search-Oriented Conversational AI (SCAI)
 
-at [IJCAI-19](https://www.ijcai19.org/workshops.html), Macao 🇲🇴, China, August 12
+at [IJCAI-19](https://www.ijcai19.org/workshops.html), Macao 🇲🇴, China, August 12.
+
+**IJCAI early [registration](https://www.ijcai19.org/register.html) is June 20, 2019 (UTC-12)**
 
 > Click [here](https://scai.info) to go to the SCAI main page.
 
