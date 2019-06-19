@@ -74,7 +74,9 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
   * Poster Session
 
 ## Invited Speakers
-TBD
+* [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/activities/), University of Amsterdam & Innovation Center for Artificial Intelligence
+* [Inho Kang](https://www.linkedin.com/mynetwork/invite-sent/inho-kang-ab29ba117), Naver Corp
+* … more to be announced soon
 
 ## Schedule
 
