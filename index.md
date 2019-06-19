@@ -4,7 +4,7 @@
 
 Macao 🇲🇴, China, August 12, 2019.
 
-**Paper deadline (extended): May 19, 2019** ([Anywhere on Earth 🌎 ](https://time.is/Anywhere_on_Earth))
+**IJCAI early [registration](https://www.ijcai19.org/register.html) is June 20, 2019 (UTC-12)**
 
 # Past Workshops
   * The [1st edition](/2017/) of the workshop was co-located with International Conference on the Theory of Information Retrieval (ICTIR 2017).

@@ -25,7 +25,7 @@ The [1st edition](/2017/) of the workshop was co-located with International Conf
 
 The [2nd edition](/2018/) of the workshop was co-located with the Conference on Emperical Methods in Natural Language Processing (EMNLP 2018).
 
-The [4th edition](/ijcai2019/) will be held together with the 28th International Joint Conference on Artificial Intelligence (IJCAI-19) in August 2019. **Extended paper deadline: May 19, 2019**
+The [4th edition](/ijcai2019/) will be held together with the 28th International Joint Conference on Artificial Intelligence (IJCAI-19) in August 2019.
 
 ## Topics of Interest
    * Surfacing search results in form of a dialogue (how to present information that search gives us in a form of a dialogue? Which model to use for dialogue-state tracking?
