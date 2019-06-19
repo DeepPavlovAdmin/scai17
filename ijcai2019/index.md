@@ -42,18 +42,38 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
 
    * Specialized applications and uses cases for conversational search (specialized domains in health, finance, travel, etc.)
 
-## Submissions
-  * Format: up to 6 pages of content in the [IJCAI format](https://www.ijcai.org/authors_kit),
-    plus one page for references.
-  * Submission URL: [https://easychair.org/conferences/?conf=scai2019](https://easychair.org/conferences/?conf=scai2019)
-
 # Important Dates
   * Submission: ~~May 12~~  May 19, 2019
   * Notification: ~~June 2~~  June 5, 2019
   * Camera-ready version: ~~June 16~~  June 19, 2019
   * Workshop: **August 12**
 
-# Organizers
+# Workshop Format
+
+- Invited Speakers and Oral Presentation
+- Panel Discussion. You can [send](https://app2.sli.do/event/qqcfm2iy/questions) your suggestions.
+- Breakout Session to plan a roadmap for Conversational AI
+- Poster Session
+
+## Invited Speakers
+
+- [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/activities/), University of Amsterdam & Innovation Center for Artificial Intelligence
+- [Inho Kang](https://www.linkedin.com/mynetwork/invite-sent/inho-kang-ab29ba117), Naver Corp
+- … more to be announced soon
+
+## Schedule
+
+TBD
+
+## Accepted papers:
+
+- Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: [_SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_](https://arxiv.org/abs/1906.06788)
+- [Vishwajeet Kumar](https://www.cse.iitb.ac.in/~vishwajeet/), [Ganesh Ramakrishnan](http://www.cse.iitb.ac.in/~ganesh) and [Yuan-Fang Li](http://www.csse.monash.edu.au/~yli/): _Putting the Horse Before the Cart: A Generator-Evaluator Framework for Question Generation from Text_
+- Rajhans Samdani, Ankit Goyal, Pierre Rappolt and Pratyus Patnaik: [_Practical User Feedback-driven Internal Search Using Online Learning to Rank_](https://arxiv.org/abs/1906.06581)
+- Yangjun Zhang, Pengjie Ren and Maarten de Rijke: [_Improving Background Based Conversation with Context-aware Knowledge Pre-selection_](https://arxiv.org/abs/1906.06685)
+
+## Organizers
+
   * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
   * [Julia Kiseleva](http://juliakiseleva.com), *Microsoft Research & AI*, Seattle
   * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google Research*, Zürich
@@ -68,28 +88,6 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
   * Igor Shalyminov, *Heriot-Watt University*
   * Damiano Spina, *RMIT University*
   * Hamed Zamani, *University of Massachusetts Amherst*
-
-# Workshop Format
-  * Invited Speakers and Oral Presentation
-  * Panel Discussion. You can [send](https://app2.sli.do/event/qqcfm2iy/questions) your suggestions.
-  * Breakout Session to plan a roadmap for Conversational AI
-  * Poster Session
-
-## Invited Speakers
-* [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/activities/), University of Amsterdam & Innovation Center for Artificial Intelligence
-* [Inho Kang](https://www.linkedin.com/mynetwork/invite-sent/inho-kang-ab29ba117), Naver Corp
-* … more to be announced soon
-
-## Schedule
-
-TBD
-
-## Accepted papers:
-
-* Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: _SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_
-* [Vishwajeet Kumar](https://www.cse.iitb.ac.in/~vishwajeet/), [Ganesh Ramakrishnan](http://www.cse.iitb.ac.in/~ganesh) and [Yuan-Fang Li](http://www.csse.monash.edu.au/~yli/): _Putting the Horse Before the Cart: A Generator-Evaluator Framework for Question Generation from Text_
-* [Rajhans Samdani](http://www.rsamdani.com/), Ankit Goyal, Pierre Rappolt and [Pratyus Patnaik](https://www.pratyus.com/): _Practical User Feedback-driven Internal Search Using Online Learning to Rank_
-* Yangjun Zhang, Pengjie Ren and [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/): _Improving Background Based Conversation with Context-aware Knowledge Pre-selection_
 
 ## Questions
 
