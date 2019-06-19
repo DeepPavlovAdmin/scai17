@@ -4,7 +4,9 @@
 
 at [IJCAI-19](https://www.ijcai19.org/workshops.html), Macao 🇲🇴, China, August 12
 
-> Click [here](https://scai.info) to go to the main page.
+**IJCAI early [registration](https://www.ijcai19.org/register.html) is June 20, 2019 (UTC-12)**
+
+> Click [here](https://scai.info) to go to the SCAI main page.
 
 More and more information is found and consumed in a conversational form
 rather than using traditional search engines. Chatbots, personal assistants
@@ -49,7 +51,7 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
   * Submission: ~~May 12~~  May 19, 2019
   * Notification: ~~June 2~~  June 5, 2019
   * Camera-ready version: ~~June 16~~  June 19, 2019
-  * Workshop: August 12
+  * Workshop: **August 12**
 
 # Organizers
   * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
