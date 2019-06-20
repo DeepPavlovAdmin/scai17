@@ -68,7 +68,7 @@ TBD
 ## Accepted papers:
 
 - Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: [_SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_](https://arxiv.org/abs/1906.06788)
-- [Vishwajeet Kumar](https://www.cse.iitb.ac.in/~vishwajeet/), [Ganesh Ramakrishnan](http://www.cse.iitb.ac.in/~ganesh) and [Yuan-Fang Li](http://www.csse.monash.edu.au/~yli/): _Putting the Horse Before the Cart: A Generator-Evaluator Framework for Question Generation from Text_
+- Vishwajeet Kumar, Ganesh Ramakrishnan and Yuan-Fang Li: [_A Framework for Automatic Question Generation from Text using Deep Reinforcement Learning_](https://arxiv.org/abs/1808.04961)
 - Rajhans Samdani, Ankit Goyal, Pierre Rappolt and Pratyus Patnaik: [_Practical User Feedback-driven Internal Search Using Online Learning to Rank_](https://arxiv.org/abs/1906.06581)
 - Yangjun Zhang, Pengjie Ren and Maarten de Rijke: [_Improving Background Based Conversation with Context-aware Knowledge Pre-selection_](https://arxiv.org/abs/1906.06685)
 
