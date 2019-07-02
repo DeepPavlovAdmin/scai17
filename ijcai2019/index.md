@@ -83,7 +83,7 @@ TBD
 # Program Committee
   * Mikhail Arkhipov, *MIREA - Russian Technological University*
   * Ondřej Dušek, *Charles University*
-  * Tomp Kenter, *Google*
+  * Tom Kenter, *Google*
   * Valentin Malykh, *MIPT*
   * Leonid Pugachev, *MIPT*
   * Igor Shalyminov, *Heriot-Watt University*
