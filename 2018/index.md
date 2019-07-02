@@ -66,7 +66,7 @@ interactions with the agent — how will it affect existing models?)
   * Damiano Spina, *RMIT University*
   * Igor Shalyminov, *Heriot-Watt University*
   * Jaap Kamps, *University of Amsterdam*
-  * Tomp Kenter, *Google London*
+  * Tom Kenter, *Google London*
   * Valentin Malykh, *MIPT*
   * Evgeny Kharitonov, *Facebook Paris* 
   * Guillermo Garrido, *Google Zürich*
