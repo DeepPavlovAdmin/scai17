@@ -60,7 +60,8 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
 - [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/activities/), University of Amsterdam & Innovation Center for Artificial Intelligence
 - [Inho Kang](https://www.linkedin.com/mynetwork/invite-sent/inho-kang-ab29ba117), Naver Corp
 - [Irina Piontkovskaya](https://www.linkedin.com/in/irina-piontkovskaya-6b10b0b5/), Speech&Dialogs Team, Huawei Noah's Ark Lab
-- … more to be announced soon
+- [Heming (He Ming) Zhang](https://www.linkedin.com/in/heming-he-ming-zhang-5b7b0386/), University of Southern California
+- [Abhinav Rastogi](https://www.linkedin.com/in/abhinav-rastogi-0a466934/?originalSubdomain=hr), Google
 
 ## Schedule
 
