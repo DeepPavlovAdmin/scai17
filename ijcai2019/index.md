@@ -92,17 +92,17 @@ TBD
   * Damiano Spina, *RMIT University*
   * Hamed Zamani, *University of Massachusetts Amherst*
 
-## Sponsors
-### Gold
+# Sponsors
+## Gold
 <a href="https://huawei.com"><img src="media/HuaweiLogo.png" style="max-width: 60%"></a>
 
 <a href="https://microsoft.com"><img src="media/MicrosoftLogo.png" style="max-width: 60%"></a>
 
-### Silver
+## Silver
 <a href="https://www.navercorp.com/en"><img src="media/NaverLogo.png" style="max-width: 60%"></a>
-### Bronze
+## Bronze
 <a href="https://google.com"><img src="media/GoogleLogo.png" style="max-width: 60%"></a>
 
-## Questions for Panel Discussion
+# Questions for Panel Discussion
 
 <iframe src="https://app.sli.do/event/qqcfm2iy" height="800px" width="100%"></iframe>
