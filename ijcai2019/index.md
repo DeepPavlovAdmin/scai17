@@ -64,16 +64,33 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
 - [Abhinav Rastogi](https://www.linkedin.com/in/abhinav-rastogi-0a466934/?originalSubdomain=hr), *Google*
 - [Minlie Huang]([http://coai.cs.tsinghua.edu.cn/hml/](http://coai.cs.tsinghua.edu.cn/hml/)), *Tsinghua University*
 
-## Schedule
+## Preliminary Schedule
 
-TBD
+Session 1 (08:30–10:00)
 
-## Accepted papers:
+* 08:30–08:40 Introduction
 
-- Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: [_SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_](https://arxiv.org/abs/1906.06788)
-- Vishwajeet Kumar, Ganesh Ramakrishnan and Yuan-Fang Li: [_A Framework for Automatic Question Generation from Text using Deep Reinforcement Learning_](https://arxiv.org/abs/1808.04961)
-- Rajhans Samdani, Ankit Goyal, Pierre Rappolt and Pratyus Patnaik: [_Practical User Feedback-driven Internal Search Using Online Learning to Rank_](https://arxiv.org/abs/1906.06581)
-- Yangjun Zhang, Pengjie Ren and Maarten de Rijke: [_Improving Background Based Conversation with Context-aware Knowledge Pre-selection_](https://arxiv.org/abs/1906.06685)
+* 08:40–09:20 **Invited talk 1: Abhinav Rastogi, *Google* **
+* 09:20–10:00 **Invited talk 2: Minlie Huang, *Tsinghua University* **
+
+Session 2 (10:30–12:30)
+* 10:30–11:20 **Invited talk 3: Maarten de Rijke, *University of Amsterdam* **
+* 11:20–11:50 Paper presentations 1 (12 min + 3 min Q/A)
+> * Rajhans Samdani, Ankit Goyal, Pierre Rappolt and Pratyus Patnaik: [_Practical User Feedback-driven Internal Search Using Online Learning to Rank_](https://arxiv.org/abs/1906.06581)
+> * Vishwajeet Kumar, Ganesh Ramakrishnan and Yuan-Fang Li: [_A Framework for Automatic Question Generation from Text using Deep Reinforcement Learning_](https://arxiv.org/abs/1808.04961)
+* 11:50–12:30 **Invited talk 4: Irina Piontkovskaya, *Huawei Noah's Ark Lab* **
+
+Session 3 (14:00–15:30)
+* 14:00–14:40 **Invited talk 5: Heming Zhang, *University of Southern California* **
+* 14:40–15:10 Paper presentations 2 (12 min + 3 min Q/A)
+> * Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: [_SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_](https://arxiv.org/abs/1906.06788)
+> * Yangjun Zhang, Pengjie Ren and Maarten de Rijke: [_Improving Background Based Conversation with Context-aware Knowledge Pre-selection_](https://arxiv.org/abs/1906.06685)
+* 15:10–15:30 Poster session
+
+Session 4 (16:00–17:30)
+* 16:00–16:40 **Invited talk 6: Inho Kang, *Naver Corp* **
+* 16:40–17:25 Panel discussion
+* 17:25–17:30 Closing
 
 ## Organizers
 
