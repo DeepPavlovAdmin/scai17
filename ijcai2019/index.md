@@ -29,17 +29,11 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
 
 ## Topics of Interest
    * Surfacing search results or other information in form of a dialogue how to present information coming from search in a form of a dialogue how ensure smooth transition between dialog turns which model to use for dialog-state tracking
-    
    * Evaluation of Search-Oriented Conversational AI — From Conversational AI to Personal Assistants
-    
    * Personalization for conversational AI and for its evaluation
-
    * Deep Learning for Conversational AI
-
    * (Deep) Reinforcement Learning for Conversational AI
-
    * Voice as Input (when we consider not only text input, but also voice interactions with the agent — how will it affect existing models?)
-
    * Specialized applications and uses cases for conversational search (specialized domains in health, finance, travel, etc.)
 
 # Important Dates
