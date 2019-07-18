@@ -82,7 +82,7 @@ Session 3 (14:00–15:30)
 * 14:40–15:10 Paper presentations 2 (12 min + 3 min Q/A)
 > * Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: [_SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_](https://arxiv.org/abs/1906.06788)
 > * Yangjun Zhang, Pengjie Ren and Maarten de Rijke: [_Improving Background Based Conversation with Context-aware Knowledge Pre-selection_](https://arxiv.org/abs/1906.06685)
-* 15:10–15:30 Poster session
+* 15:10–15:30 Poster session (Hall A)
 
 Session 4 (16:00–17:30)
 * 16:00–16:40 **Invited talk 6: Inho Kang, Naver Corp**
