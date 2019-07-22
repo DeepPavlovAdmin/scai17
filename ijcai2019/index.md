@@ -60,7 +60,10 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
 > - **Abstract:** TBD
 - [Minlie Huang]([http://coai.cs.tsinghua.edu.cn/hml/](http://coai.cs.tsinghua.edu.cn/hml/)), *Tsinghua University*
 > -  **Title:** Towards Building More Intelligent Dialogue Systems: Semantics, Consistency, and Interactiveness
-> - **Abstract:** Building open-domain, open-topic dialogue systems (known as chatbot) is one of the most challenging AI tasks due to the difficulties of natural language understanding and the requirements of world knowledge and even semantic reasoning.  The speaker will address three fundamental issues existing in current dialogue systems: semantics, consistency, and interactiveness. As preliminary research attempts to address these problems, the speaker will present some recent studies towards building more intelligent dialogue systems: 1) how a dialogue system can behave more *interactively* via emotion detection and expression, proactive question generation, and sentence function control; 2) how a dialogue system can behave more *consistently* via explicit personalization given a specific profile; and 3) how a dialogue system can behave more *intelligently (semantics)* via using commonsense knowledge for language understanding and generation. These attempts will move forward to more intelligent, human-like chatting machines
+> - **Abstract:** Building open-domain, open-topic dialogue systems (known as chatbot) is one of the most challenging AI tasks due to the difficulties of natural language understanding and the requirements of world knowledge and even semantic reasoning.  The speaker will address three fundamental issues existing in current dialogue systems: semantics, consistency, and interactiveness. As preliminary research attempts to address these problems, the speaker will present some recent studies towards building more intelligent dialogue systems: 1) how a dialogue system can behave more *interactively* via emotion detection and expression, proactive question generation, and sentence function control; 2) how a dialogue system can behave more *consistently* via explicit personalization given a specific profile; and 3) how a dialogue system can behave more *intelligently (semantics)* via using commonsense knowledge for language understanding and generation. These attempts will move forward to more intelligent, human-like chatting machines.
+- [Soo-Young Lee]([https://www.linkedin.com/in/soo-young-lee-8b616715/](https://www.linkedin.com/in/soo-young-lee-8b616715/)), *Institute for Artificial Intelligence, School of Electrical Engineering, Brain Science Research Center, Korea Advanced Institute of Science and Technology*
+> -  **Title:** Conversational Agents with Emotion and Personality
+> - **Abstract:** For the efficient interaction between human and digital companion, i.e., machine agents, the digital companions need to have both human-like emotion and personality. We will start from reporting our continuing efforts and recent results to develop human-like emotional conversational agents as a part of the Korean National Flagship AI Program. The developed emotional conversational agents make emotional dialogue, understand human emotion, and express its own emotion. The emotions of human users are estimated from text, audio, and visual face expression during verbal conversation, and the emotions of intelligent agents are expressed in the speech and facial images. We will first show how our ensemble networks won the Emotion Recognition in the Wild (EmotiW2015) challenge with 61.6% accuracy to recognize seven emotions from facial expression. Then, a multimodal classifier combines text, voice, and facial video for better accuracy. Also, a learning-based Text-to-Speech (TTS) system will be introduced to express emotions in the dialogue. These emotions of human users and agents interact each other during the conversation. Our conversational agents have chitchat and Question-and-Answer (Q&A) modes, and the agents respond differently for different emotional states in chitchat mode. Then, we will discuss our current efforts to incorporate personalities of both human users and conversational agents. Finally, we will further extend the emotions and personality towards minds, i.e., brain internal states, which include trustworthiness, implicit intention, memory, and preference. Since not-much-studies are available, we start from hypotheses on mind space axes and conduct cognitive neuroscience experiments to prove the hypotheses. We believe that this mind model is very important for the efficient interactions and better bindings between human and conversational agents.
 
 ## Preliminary Schedule
 
@@ -86,8 +89,9 @@ Session 3 (14:00–15:30)
 
 Session 4 (16:00–17:30)
 * 16:00–16:40 **Invited talk 6: Inho Kang, Naver Corp**
-* 16:40–17:25 Panel discussion
-* 17:25–17:30 Closing
+* 16:40–17:20 **Invited talk 7: Soo-Young Lee, KAIST**
+* 17:20–18:10 Panel discussion
+* 18:10–18:15 Closing
 
 ## Organizers
 
@@ -97,7 +101,7 @@ Session 4 (16:00–17:30)
   * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
 
 # Program Committee
-  * Mikhail Arkhipov, *MIREA - Russian Technological University*
+  * Mikhail Arkhipov, *MIPT*
   * Ondřej Dušek, *Charles University*
   * Tom Kenter, *Google*
   * Valentin Malykh, *MIPT*
