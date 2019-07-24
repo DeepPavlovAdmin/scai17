@@ -58,7 +58,7 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
 - [Irina Piontkovskaya](https://www.linkedin.com/in/irina-piontkovskaya-6b10b0b5/), *Speech&Dialogs Team, Huawei Noah's Ark Lab*
 - [Heming (He Ming) Zhang](https://www.linkedin.com/in/heming-he-ming-zhang-5b7b0386/), *University of Southern California*
 > - **Title:** Multi-modal Reasoning: Bridging Vision and Language
-> - **Abstract:** TBD
+> - **Abstract:** The relentless advancement of deep learning in the recent years has brought dramatic boost of performance in many applications, and has since became a nearly synonym of Artificial Intelligence (AI). Nevertheless, the classical scenario embodying the AI proposed by pioneering minds and science fiction authors, human talking to an accompanying android regarding the surrounding world, is yet to become a reality. While the performances demonstrated by specialized deep learning models have approached or even surpassed human performance in various well-define individual tasks of computer vision and natural language processing, bridging the perception of visual information and the communication through natural language remains a very challenging task. The speaker will talk about some recent studies in conversational AI in Media Communications Lab at University of Southern California. The critical role of the multi-modalities of information will be discussed. Our approaches toward better alignment of multi-modalities in vision and language systems, as well as the methodology in inference and extraction for improved performance, will be introduced.
 - [Abhinav Rastogi](https://www.linkedin.com/in/abhinav-rastogi-0a466934/?originalSubdomain=hr), *Google*
 > - **Title:** Towards scalable multi-domain conversational agents
 > - **Abstract:** TBD
@@ -117,7 +117,6 @@ Session 4 (16:00–17:30)
 # Questions for Panel Discussion
 
 <iframe src="https://app.sli.do/event/qqcfm2iy" height="600px" width="100%"></iframe>
-
 # Sponsors
 
 ## Gold
