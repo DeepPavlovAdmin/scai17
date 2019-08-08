@@ -61,7 +61,7 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
 - [Heming (He Ming) Zhang](https://www.linkedin.com/in/heming-he-ming-zhang-5b7b0386/), *University of Southern California*
 > - **Title:** Multi-modal Reasoning: Bridging Vision and Language
 > - **Abstract:** The relentless advancement of deep learning in the recent years has brought dramatic boost of performance in many applications, and has since became a nearly synonym of Artificial Intelligence (AI). Nevertheless, the classical scenario embodying the AI proposed by pioneering minds and science fiction authors, human talking to an accompanying android regarding the surrounding world, is yet to become a reality. While the performances demonstrated by specialized deep learning models have approached or even surpassed human performance in various well-define individual tasks of computer vision and natural language processing, bridging the perception of visual information and the communication through natural language remains a very challenging task. The speaker will talk about some recent studies in conversational AI in Media Communications Lab at University of Southern California. The critical role of the multi-modalities of information will be discussed. Our approaches toward better alignment of multi-modalities in vision and language systems, as well as the methodology in inference and extraction for improved performance, will be introduced.
-- [Abhinav Rastogi](https://www.linkedin.com/in/abhinav-rastogi-0a466934/?originalSubdomain=hr), *Google*
+- [Xiaoxue Zang](https://www.linkedin.com/in/xiaoxue-zang-53b275137/), *Google*
 > - **Title:** Towards scalable multi-domain conversational agents
 > - **Abstract:** TBD
 - [Minlie Huang]([http://coai.cs.tsinghua.edu.cn/hml/](http://coai.cs.tsinghua.edu.cn/hml/)), *Tsinghua University*
@@ -76,7 +76,7 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
 Session 1 (08:30–10:00)
 
 * 08:30–08:40 Introduction
-* 08:40–09:20 **Invited talk 1: Abhinav Rastogi, Google**
+* 08:40–09:20 **Invited talk 1: Xiaoxue Zang, Google**
 * 09:20–10:00 **Invited talk 2: Minlie Huang, Tsinghua University**
 
 Session 2 (10:30–12:30)
