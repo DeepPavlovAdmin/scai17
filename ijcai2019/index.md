@@ -27,6 +27,41 @@ The [2nd edition](/2018/) of the workshop was co-located with the Conference on 
 
 The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-located with The Web Conference 2019 (TheWebConf 2019).
 
+## Schedule
+
+Session 1 (08:30–10:00)
+
+- 08:30–08:40 Introduction
+- 08:40–09:20 **Invited talk 1: Xiaoxue Zang, Google**
+- 09:20–10:00 **Invited talk 2: Minlie Huang, Tsinghua University**
+
+Session 2 (10:30–12:30)
+
+- 10:30–11:20 **Invited talk 3: Maarten de Rijke, University of Amsterdam**
+- 11:20–11:50 Paper presentations 1 (12 min + 3 min Q/A)
+
+> - Rajhans Samdani, Ankit Goyal, Pierre Rappolt and Pratyus Patnaik: [_Practical User Feedback-driven Internal Search Using Online Learning to Rank_](https://arxiv.org/abs/1906.06581)
+> - Vishwajeet Kumar, Ganesh Ramakrishnan and Yuan-Fang Li: [_A Framework for Automatic Question Generation from Text using Deep Reinforcement Learning_](https://arxiv.org/abs/1808.04961)
+
+- 11:50–12:30 **Invited talk 4: Irina Piontkovskaya, Huawei Noah's Ark Lab**
+
+Session 3 (14:00–15:30)
+
+- 14:00–14:40 **Invited talk 5: Heming Zhang, University of Southern California**
+- 14:40–15:10 Paper presentations 2 (12 min + 3 min Q/A)
+
+> - Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: [_SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_](https://arxiv.org/abs/1906.06788)
+> - Yangjun Zhang, Pengjie Ren and Maarten de Rijke: [_Improving Background Based Conversation with Context-aware Knowledge Pre-selection_](https://arxiv.org/abs/1906.06685)
+
+- 15:10–15:30 Poster session (Hall A)
+
+Session 4 (16:00–17:30)
+
+- 16:00–16:40 **Invited talk 6: Inho Kang, Naver Corp**
+- 16:40–17:20 **Invited talk 7: Soo-Young Lee, KAIST**
+- 17:20–18:10 Panel discussion
+- 18:10–18:15 Closing
+
 ## Topics of Interest
    * Surfacing search results or other information in form of a dialogue how to present information coming from search in a form of a dialogue how ensure smooth transition between dialog turns which model to use for dialog-state tracking
    * Evaluation of Search-Oriented Conversational AI — From Conversational AI to Personal Assistants
@@ -73,34 +108,6 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
 - [Soo-Young Lee]([https://www.linkedin.com/in/soo-young-lee-8b616715/](https://www.linkedin.com/in/soo-young-lee-8b616715/)), *Institute for Artificial Intelligence, School of Electrical Engineering, Brain Science Research Center, Korea Advanced Institute of Science and Technology*
 > -  **Title:** Conversational Agents with Emotion and Personality
 > - **Abstract:** For the efficient interaction between human and digital companion, i.e., machine agents, the digital companions need to have both human-like emotion and personality. We will start from reporting our continuing efforts and recent results to develop human-like emotional conversational agents as a part of the Korean National Flagship AI Program. The developed emotional conversational agents make emotional dialogue, understand human emotion, and express its own emotion. The emotions of human users are estimated from text, audio, and visual face expression during verbal conversation, and the emotions of intelligent agents are expressed in the speech and facial images. We will first show how our ensemble networks won the Emotion Recognition in the Wild (EmotiW2015) challenge with 61.6% accuracy to recognize seven emotions from facial expression. Then, a multimodal classifier combines text, voice, and facial video for better accuracy. Also, a learning-based Text-to-Speech (TTS) system will be introduced to express emotions in the dialogue. These emotions of human users and agents interact each other during the conversation. Our conversational agents have chitchat and Question-and-Answer (Q&A) modes, and the agents respond differently for different emotional states in chitchat mode. Then, we will discuss our current efforts to incorporate personalities of both human users and conversational agents. Finally, we will further extend the emotions and personality towards minds, i.e., brain internal states, which include trustworthiness, implicit intention, memory, and preference. Since not-much-studies are available, we start from hypotheses on mind space axes and conduct cognitive neuroscience experiments to prove the hypotheses. We believe that this mind model is very important for the efficient interactions and better bindings between human and conversational agents.
-
-## Preliminary Schedule
-
-Session 1 (08:30–10:00)
-
-* 08:30–08:40 Introduction
-* 08:40–09:20 **Invited talk 1: Xiaoxue Zang, Google**
-* 09:20–10:00 **Invited talk 2: Minlie Huang, Tsinghua University**
-
-Session 2 (10:30–12:30)
-* 10:30–11:20 **Invited talk 3: Maarten de Rijke, University of Amsterdam**
-* 11:20–11:50 Paper presentations 1 (12 min + 3 min Q/A)
-> * Rajhans Samdani, Ankit Goyal, Pierre Rappolt and Pratyus Patnaik: [_Practical User Feedback-driven Internal Search Using Online Learning to Rank_](https://arxiv.org/abs/1906.06581)
-> * Vishwajeet Kumar, Ganesh Ramakrishnan and Yuan-Fang Li: [_A Framework for Automatic Question Generation from Text using Deep Reinforcement Learning_](https://arxiv.org/abs/1808.04961)
-* 11:50–12:30 **Invited talk 4: Irina Piontkovskaya, Huawei Noah's Ark Lab**
-
-Session 3 (14:00–15:30)
-* 14:00–14:40 **Invited talk 5: Heming Zhang, University of Southern California**
-* 14:40–15:10 Paper presentations 2 (12 min + 3 min Q/A)
-> * Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: [_SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_](https://arxiv.org/abs/1906.06788)
-> * Yangjun Zhang, Pengjie Ren and Maarten de Rijke: [_Improving Background Based Conversation with Context-aware Knowledge Pre-selection_](https://arxiv.org/abs/1906.06685)
-* 15:10–15:30 Poster session (Hall A)
-
-Session 4 (16:00–17:30)
-* 16:00–16:40 **Invited talk 6: Inho Kang, Naver Corp**
-* 16:40–17:20 **Invited talk 7: Soo-Young Lee, KAIST**
-* 17:20–18:10 Panel discussion
-* 18:10–18:15 Closing
 
 ## Organizers
 
