@@ -49,7 +49,7 @@ Session 3 (14:00–15:30)
 > - Yangjun Zhang, Pengjie Ren and Maarten de Rijke: [_Improving Background Based Conversation with Context-aware Knowledge Pre-selection_](https://arxiv.org/abs/1906.06685)
 - 15:10–15:30 Poster session (Hall A)
 
-Session 4 (16:00–17:30)
+Session 4 (16:00–18:15)
 
 - 16:00–16:40 **Invited talk 6: Inho Kang, Naver Corp**
 - 16:40–17:20 **Invited talk 7: Soo-Young Lee, KAIST**
