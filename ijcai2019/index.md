@@ -70,12 +70,11 @@ Session 4 (16:00–18:15)
 
 - [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/activities/), *University of Amsterdam & Innovation Center for Artificial Intelligence*
 > - **Title:** SERP-Based Conversations
-> - **Abstract:** How might we convey the information that is traditionally returned by a search engine in the form of a complex search engine result page (SERP) in a meaningful and natural conversation? In the talk I will sketch some of the challenges, some of the solutions to related problems (such as background based conversations), and some of the ongoing work on this task.
-> Based on joint work with Pengjie Ren, Nikos Voskarides, Svitlana Vakulenko
+> - **Abstract:** How might we convey the information that is traditionally returned by a search engine in the form of a complex search engine result page (SERP) in a meaningful and natural conversation? In the talk I will sketch some of the challenges, some of the solutions to related problems (such as background based conversations), and some of the ongoing work on this task. Based on joint work with Pengjie Ren, Nikos Voskarides, Svitlana Vakulenko
 - [Irina Piontkovskaya](https://www.linkedin.com/in/irina-piontkovskaya-6b10b0b5/), *Speech&Dialogs Team, Huawei Noah's Ark Lab*
 
-> - **Title:** How We Could Handle Heterogeneous Data and Output Something Readable
-> - **Abstract:** TBD
+> - **Title:** Integrating ‘hard’ knowledge with neural language models
+> - **Abstract:** Neural approaches show incredible performance in many dialog related tasks. But, when it comes to real-world dialog agents, we still need to add a lot of 'hard'' knowledge, expressed not only in a form of databases, but also rules, heuristics, patterns etc. We consider several ideas how to integrate these two worlds.
 
 - [Heming (He Ming) Zhang](https://www.linkedin.com/in/heming-he-ming-zhang-5b7b0386/), *University of Southern California*
 
