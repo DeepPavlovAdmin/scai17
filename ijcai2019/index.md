@@ -39,7 +39,6 @@ Session 2 (10:30–12:30)
 - 11:20–11:50 Paper presentations 1 (12 min + 3 min Q/A)
 > - Rajhans Samdani, Ankit Goyal, Pierre Rappolt and Pratyus Patnaik: [_Practical User Feedback-driven Internal Search Using Online Learning to Rank_](https://arxiv.org/abs/1906.06581)
 > - Vishwajeet Kumar, Ganesh Ramakrishnan and Yuan-Fang Li: [_A Framework for Automatic Question Generation from Text using Deep Reinforcement Learning_](https://arxiv.org/abs/1808.04961)
-
 - 11:50–12:30 **Invited talk 4: Irina Piontkovskaya, Huawei Noah's Ark Lab**
 
 Session 3 (14:00–15:30)
@@ -48,7 +47,6 @@ Session 3 (14:00–15:30)
 - 14:40–15:10 Paper presentations 2 (12 min + 3 min Q/A)
 > - Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: [_SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_](https://arxiv.org/abs/1906.06788)
 > - Yangjun Zhang, Pengjie Ren and Maarten de Rijke: [_Improving Background Based Conversation with Context-aware Knowledge Pre-selection_](https://arxiv.org/abs/1906.06685)
-
 - 15:10–15:30 Poster session (Hall A)
 
 Session 4 (16:00–17:30)
