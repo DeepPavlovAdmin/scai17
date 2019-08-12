@@ -60,28 +60,6 @@ Session 4 (16:00–17:30)
 - 17:20–18:10 Panel discussion
 - 18:10–18:15 Closing
 
-## Topics of Interest
-   * Surfacing search results or other information in form of a dialogue how to present information coming from search in a form of a dialogue how ensure smooth transition between dialog turns which model to use for dialog-state tracking
-   * Evaluation of Search-Oriented Conversational AI — From Conversational AI to Personal Assistants
-   * Personalization for conversational AI and for its evaluation
-   * Deep Learning for Conversational AI
-   * (Deep) Reinforcement Learning for Conversational AI
-   * Voice as Input (when we consider not only text input, but also voice interactions with the agent — how will it affect existing models?)
-   * Specialized applications and uses cases for conversational search (specialized domains in health, finance, travel, etc.)
-
-# Important Dates
-  * Submission: ~~May 12~~  May 19, 2019
-  * Notification: ~~June 2~~  June 5, 2019
-  * Camera-ready version: ~~June 16~~  June 19, 2019
-  * Workshop: **August 12**
-
-# Workshop Format
-
-- Invited Speakers and Oral Presentation
-- Panel Discussion. You can [send](https://app2.sli.do/event/qqcfm2iy/questions) your suggestions.
-- Breakout Session to plan a roadmap for Conversational AI
-- Poster Session
-
 ## Invited Speakers
 
 - [Xiaoxue Zang](https://www.linkedin.com/in/xiaoxue-zang-53b275137/), *Google*
@@ -114,6 +92,28 @@ Session 4 (16:00–17:30)
 - [Soo-Young Lee](https://www.linkedin.com/in/soo-young-lee-8b616715/), *Institute for Artificial Intelligence, School of Electrical Engineering, Brain Science Research Center, Korea Advanced Institute of Science and Technology*
 > -  **Title:** Conversational Agents with Emotion and Personality
 > - **Abstract:** For the efficient interaction between human and digital companion, i.e., machine agents, the digital companions need to have both human-like emotion and personality. We will start from reporting our continuing efforts and recent results to develop human-like emotional conversational agents as a part of the Korean National Flagship AI Program. The developed emotional conversational agents make emotional dialogue, understand human emotion, and express its own emotion. The emotions of human users are estimated from text, audio, and visual face expression during verbal conversation, and the emotions of intelligent agents are expressed in the speech and facial images. We will first show how our ensemble networks won the Emotion Recognition in the Wild (EmotiW2015) challenge with 61.6% accuracy to recognize seven emotions from facial expression. Then, a multimodal classifier combines text, voice, and facial video for better accuracy. Also, a learning-based Text-to-Speech (TTS) system will be introduced to express emotions in the dialogue. These emotions of human users and agents interact each other during the conversation. Our conversational agents have chitchat and Question-and-Answer (Q&A) modes, and the agents respond differently for different emotional states in chitchat mode. Then, we will discuss our current efforts to incorporate personalities of both human users and conversational agents. Finally, we will further extend the emotions and personality towards minds, i.e., brain internal states, which include trustworthiness, implicit intention, memory, and preference. Since not-much-studies are available, we start from hypotheses on mind space axes and conduct cognitive neuroscience experiments to prove the hypotheses. We believe that this mind model is very important for the efficient interactions and better bindings between human and conversational agents.
+
+## Topics of Interest
+   * Surfacing search results or other information in form of a dialogue how to present information coming from search in a form of a dialogue how ensure smooth transition between dialog turns which model to use for dialog-state tracking
+   * Evaluation of Search-Oriented Conversational AI — From Conversational AI to Personal Assistants
+   * Personalization for conversational AI and for its evaluation
+   * Deep Learning for Conversational AI
+   * (Deep) Reinforcement Learning for Conversational AI
+   * Voice as Input (when we consider not only text input, but also voice interactions with the agent — how will it affect existing models?)
+   * Specialized applications and uses cases for conversational search (specialized domains in health, finance, travel, etc.)
+
+# Important Dates
+  * Submission: ~~May 12~~  May 19, 2019
+  * Notification: ~~June 2~~  June 5, 2019
+  * Camera-ready version: ~~June 16~~  June 19, 2019
+  * Workshop: **August 12**
+
+# Workshop Format
+
+- Invited Speakers and Oral Presentation
+- Panel Discussion. You can [send](https://app2.sli.do/event/qqcfm2iy/questions) your suggestions.
+- Breakout Session to plan a roadmap for Conversational AI
+- Poster Session
 
 ## Organizers
 
