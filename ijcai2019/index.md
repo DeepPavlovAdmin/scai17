@@ -31,11 +31,11 @@ Session 1 (08:30–10:00)
 
 - 08:30–08:40 Introduction
 - 08:40–09:20 **Invited talk 1: Xiaoxue Zang, Google: [Towards scalable multi-domain conversational agents](slides/IJCAI2019_Zang.pdf)**
-- 09:20–10:00 **Invited talk 2: Minlie Huang, Tsinghua University**
+- 09:20–10:00 **Invited talk 2: Minlie Huang, Tsinghua University: [Towards Building More Intelligent Dialogue Systems: Semantics, Consistency, and Interactiveness](slides/IJCAI2019_Huang.pdf)**
 
 Session 2 (10:30–12:30)
 
-- 10:30–11:20 **Invited talk 3: Maarten de Rijke, University of Amsterdam**
+- 10:30–11:20 **Invited talk 3: Maarten de Rijke, University of Amsterdam: [SERP-Based Conversations](slides/IJCAI2019_deRijke.pdf)**
 - 11:20–11:50 Paper presentations 1 (12 min + 3 min Q/A)
 > - Rajhans Samdani, Ankit Goyal, Pierre Rappolt and Pratyus Patnaik: [_Practical User Feedback-driven Internal Search Using Online Learning to Rank_](https://arxiv.org/abs/1906.06581)
 > - Vishwajeet Kumar, Ganesh Ramakrishnan and Yuan-Fang Li: [_A Framework for Automatic Question Generation from Text using Deep Reinforcement Learning_](https://arxiv.org/abs/1808.04961)
