@@ -30,7 +30,7 @@ The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-l
 Session 1 (08:30–10:00)
 
 - 08:30–08:40 Introduction
-- 08:40–09:20 **Invited talk 1: Xiaoxue Zang, Google**
+- 08:40–09:20 **Invited talk 1: Xiaoxue Zang, Google** [[slides]](slides/IJCAI2019_Zang)
 - 09:20–10:00 **Invited talk 2: Minlie Huang, Tsinghua University**
 
 Session 2 (10:30–12:30)
