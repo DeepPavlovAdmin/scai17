@@ -125,9 +125,6 @@ Session 4 (16:00–18:15)
   * Damiano Spina, *RMIT University*
   * Hamed Zamani, *University of Massachusetts Amherst*
 
-# Questions for Panel Discussion
-
-<iframe src="https://app.sli.do/event/qqcfm2iy" height="600px" width="100%"></iframe>
 # Sponsors
 
 ## Gold
