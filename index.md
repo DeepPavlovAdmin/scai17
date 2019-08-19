@@ -1,12 +1,10 @@
-# Current Edition
+# Latest Edition
 
 ### [4th edition](/ijcai2019/) (IJCAI-19)
 
 Macao 🇲🇴, China, August 12, 2019.
 
-**IJCAI early [registration](https://www.ijcai19.org/register.html) is June 20, 2019 (UTC-12)**
-
-# Past Workshops
+# Previous Workshops
   * The [1st edition](/2017/) of the workshop was co-located with International Conference on the Theory of Information Retrieval (ICTIR 2017).
   * The [2nd edition](/2018/) of the workshop was co-located with the Conference on Emperical Methods in Natural Language Processing (EMNLP 2018).
   * The [3rd edition](/www2019/) (special half-day edition) of the workshop was co-located with The Web Conference 2019 (TheWebConf 2019).
