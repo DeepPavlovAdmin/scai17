@@ -43,7 +43,7 @@ Session 2 (10:30–12:30)
 
 Session 3 (14:00–15:30)
 
-- 14:00–14:40 **Invited talk 5: Heming Zhang, University of Southern California**
+- 14:00–14:40 **Invited talk 5: Heming Zhang, University of Southern California: [Multi-modal Reasoning: Bridging Vision and Language](slides/IJCAI2019_Zhang_Heming.pdf)**
 - 14:40–15:10 Paper presentations 2 (12 min + 3 min Q/A)
 > - Jiahuan Pei, Arent Stienstra, Julia Kiseleva, and Maarten de Rijke: _SEntNet: Source-aware Recurrent Entity Networks for Dialogue Response Selection_ [[paper]](https://arxiv.org/abs/1906.06788) [[slides]](slides/IJCAI2019_Pei.pdf) [[poster]](posters/IJCAI2019_Pei.pdf)
 > - Yangjun Zhang, Pengjie Ren and Maarten de Rijke: _Improving Background Based Conversation with Context-aware Knowledge Pre-selection_ [[paper]](https://arxiv.org/abs/1906.06685) [[slides]](slides/IJCAI2019_Zhang.pdf) [[poster]](posters/IJCAI2019_Zhang.jpg)
