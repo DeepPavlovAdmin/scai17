@@ -52,7 +52,7 @@ Session 3 (14:00–15:30)
 Session 4 (16:00–18:15)
 
 - 16:00–16:40 **Invited talk 6: Inho Kang, Naver Corp: [Clova – Leveraging Search Results to make Conversational Agents Smarter](slides/IJCAI2019_Kang.pdf)**
-- 16:40–17:20 **Invited talk 7: Soo-Young Lee, KAIST**
+- 16:40–17:20 **Invited talk 7: Soo-Young Lee, KAIST: [Conversational Agents with Emotion and Personality](slides/IJCAI2019_Lee.pdf)**
 - 17:20–18:10 Panel discussion
 - 18:10–18:15 Closing
 
