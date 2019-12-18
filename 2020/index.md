@@ -56,7 +56,7 @@ interactions with the agent — how will it affect existing models?)
   * Workshop: November 11/12
 
 # Organizers
-* [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
+  * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
   * [Aleksandr Chuklin](https://www.linkedin.com/in/chuklin/), *Google Research*, Zürich
   * [Julia Kiseleva](http://juliakiseleva.com), *Microsoft Research & AI*, Seattle
   * [Mikhail Burtsev](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), *MIPT*, Moscow
