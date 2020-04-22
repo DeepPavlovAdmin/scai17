@@ -52,8 +52,8 @@ interactions with the agent — how will it affect existing models?)
   * EMNLP's [Multiple Submission Policy](http://emnlp2018.org/calls/papers#multiple-submission-policy) applies: should a conceptually similar version of the same paper be accepted elsewhere, the authors would need to decide which submission they want to keep and withdraw the other one.
 
 # Important Dates
-  * Submission, etc: TBD
-  * Workshop: November 11/12
+  * Submission deadline: July 15
+  * Workshop: November 19/20
 
 # Organizers
   * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
