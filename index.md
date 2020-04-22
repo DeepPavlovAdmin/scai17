@@ -2,7 +2,7 @@
 
 ### [5th edition](/2020/) (EMNLP 2020)
 
-Punta Cana, Dominican Republic 🇩🇴, November 11 or 12 (TBD)
+Online, November 19-20 (exact details TBD)
 
 # Previous Workshops
   * The [1st edition](/2017/) of the workshop was co-located with International Conference on the Theory of Information Retrieval (ICTIR 2017).
