@@ -2,7 +2,7 @@
 
 **The 5nd International Workshop on Search-Oriented Conversational AI (SCAI)**
 
-at EMNLP 2020, Punta Cana, Dominican Republic 🇩🇴, November 11 or 12 (TBD).
+Online, November 19-20 (exact details TBD).
 
 > Click [here](https://scai.info) to go to the SCAI main page.
 
