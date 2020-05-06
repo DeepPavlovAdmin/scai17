@@ -2,7 +2,7 @@
 
 **The 5nd International Workshop on Search-Oriented Conversational AI (SCAI)**
 
-Online, November 19-20 (exact details TBD).
+Online 🌐, November 19-20 (exact date/time TBD).
 
 > Click [here](https://scai.info) to go to the SCAI main page.
 
@@ -47,13 +47,16 @@ evaluation
 interactions with the agent — how will it affect existing models?)
 
 ## Submission format
-  * Up to six pages of content in the ACL format, plus unlimited pages for references.
-  * Submission URL: TBD
-  * EMNLP's [Multiple Submission Policy](http://emnlp2018.org/calls/papers#multiple-submission-policy) applies: should a conceptually similar version of the same paper be accepted elsewhere, the authors would need to decide which submission they want to keep and withdraw the other one.
+  * See the main conference's rules: https://2020.emnlp.org/call-for-papers
+  * Submission URL: https://www.softconf.com/emnlp2020/scai2020/
+  * Given that the paper submission deadline and notification date were adjusted due to COVID-19, an exception was made to allow double submissions to both EMNLP and its workshops. Note, that the reviews from the main conference will be forwarded to the workshop's Program Committee.
 
 # Important Dates
-  * Submission deadline: July 15
-  * Workshop: November 19/20
+  * Submission deadline: August 15, 2020
+  * _Retraction deadline for papers accepted to for the main EMNLP conference: September 15, 2020_
+  * Notification of acceptance: September 29, 2020
+  * Camera-ready deadline: October 10, 2020
+  * Workshop: November 19/20, 2020 (TBD)
 
 # Organizers
   * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
