@@ -57,8 +57,8 @@ and position paper submissions.
   * Workshop: November 19/20, 2020 (TBD)
 
 ## SUBMISSIONS
-  * See the main conference's rules: https://2020.emnlp.org/call-for-papers
-  * Submission URL: https://www.softconf.com/emnlp2020/scai2020/
+  * See the main conference's rules (including the length guidance): [https://2020.emnlp.org/call-for-papers]( https://2020.emnlp.org/call-for-papers)
+  * Submission URL: [https://www.softconf.com/emnlp2020/scai2020/](https://www.softconf.com/emnlp2020/scai2020/)
   * Given that the paper submission deadline and notification date were adjusted due to COVID-19, an exception was made to allow double submissions to both EMNLP and its workshops. Note, that the reviews from the main conference will be forwarded to the workshop's Program Committee.
 
 ## ORGANIZERS
