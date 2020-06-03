@@ -71,4 +71,6 @@ interactions with the agent — how will it affect existing models?)
   * Poster Session
 
 ## Invited Speakers
-TBD
+* [Y-Lan Boureau](https://research.fb.com/people/boureau-y-lan/), Facebook AI Research
+* ... more to be announced soon
+
