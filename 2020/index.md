@@ -72,5 +72,6 @@ interactions with the agent — how will it affect existing models?)
 
 ## Invited Speakers
 * [Y-Lan Boureau](https://research.fb.com/people/boureau-y-lan/), Facebook AI Research
+* [Thomas Wolf](https://thomwolf.io), Hugging Face
 * ... more to be announced soon
 
