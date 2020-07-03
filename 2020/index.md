@@ -47,8 +47,8 @@ evaluation
 interactions with the agent — how will it affect existing models?)
 
 ## Submission format
-  * See the main conference's rules: https://2020.emnlp.org/call-for-papers
-  * Submission URL: https://www.softconf.com/emnlp2020/scai2020/
+  * See the main conference's rules: [https://2020.emnlp.org/call-for-papers](https://2020.emnlp.org/call-for-papers)
+  * Submission URL: [https://www.softconf.com/emnlp2020/scai2020/](https://www.softconf.com/emnlp2020/scai2020/)
   * Given that the paper submission deadline and notification date were adjusted due to COVID-19, an exception was made to allow double submissions to both EMNLP and its workshops. Note, that the reviews from the main conference will be forwarded to the workshop's Program Committee.
 
 # Important Dates
