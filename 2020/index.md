@@ -75,5 +75,6 @@ interactions with the agent — how will it affect existing models?)
 * [Thomas Wolf](https://thomwolf.io), Hugging Face
 * [Verena Rieser](https://sites.google.com/site/verenateresarieser/), Heriot Watt University
 * [Ivan Vulic](https://www.linkedin.com/in/ivan-vulić-286b4a81), PolyAI
+* [Sungjin Lee](https://www.linkedin.com/in/sungjinlee/), Amazon
 * ... more to be announced soon
 
