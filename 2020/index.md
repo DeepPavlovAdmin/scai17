@@ -1,3 +1,5 @@
+> Conversational challenge announced! See [convai.io](http://convai.io) website for details.
+
 # About
 
 **The 5nd International Workshop on Search-Oriented Conversational AI (SCAI)**
