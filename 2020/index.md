@@ -78,5 +78,6 @@ interactions with the agent — how will it affect existing models?)
 * [Verena Rieser](https://sites.google.com/site/verenateresarieser/), Heriot Watt University
 * [Ivan Vulic](https://www.linkedin.com/in/ivan-vulić-286b4a81), PolyAI
 * [Sungjin Lee](https://www.linkedin.com/in/sungjinlee/), Amazon
+* [Jason Weston](https://ai.facebook.com/people/jason-weston/), Facebook AI Research
 * ... more to be announced soon
 
