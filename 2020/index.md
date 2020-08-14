@@ -54,7 +54,7 @@ interactions with the agent — how will it affect existing models?)
   * Given that the paper submission deadline and notification date were adjusted due to COVID-19, an exception was made to allow double submissions to both EMNLP and its workshops. Note, that the reviews from the main conference will be forwarded to the workshop's Program Committee.
 
 # Important Dates
-  * Submission deadline: August 15, 2020
+  * Submission deadline: ~~August 15, 2020~~ August 30th, 2020
   * _Retraction deadline for papers accepted to for the main EMNLP conference: September 15, 2020_
   * Notification of acceptance: September 29, 2020
   * Camera-ready deadline: October 10, 2020
