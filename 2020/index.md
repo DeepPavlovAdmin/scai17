@@ -74,9 +74,50 @@ interactions with the agent — how will it affect existing models?)
 
 ## Invited Speakers
 * [Y-Lan Boureau](https://research.fb.com/people/boureau-y-lan/), Facebook AI Research
+  * **Title:** Better-behaved Conversational Agents
 * [Thomas Wolf](https://thomwolf.io), Hugging Face
+  * **Title:** Transfer Learning and tools for Conversational Agents
 * [Verena Rieser](https://sites.google.com/site/verenateresarieser/), Heriot Watt University
+  * **Title:** Response Generation and Retrieval for Multimodal Conversational AI (TBC)
 * [Ivan Vulic](https://www.linkedin.com/in/ivan-vulić-286b4a81), PolyAI
+  * **Title:** Data-Efficient Natural Language Understanding for Task-Oriented Dialogue 
 * [Sungjin Lee](https://www.linkedin.com/in/sungjinlee/), Amazon
+  * **Title:** Towards Self-Learning for Large Scale Conversational Agents
 * [Jason Weston](https://ai.facebook.com/people/jason-weston/), Facebook AI Research
+  * **Title:** BlenderBot, Knowledge and Search
 * [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie-en/), Université de Montréal
+  * **Title:** Smooth Training for Open-Domain Question Answering
+
+## Accepted Papers
+  * [Slice-Aware Neural Ranking](https://arxiv.org/pdf/2010.03343) by Gustavo Penha, Claudia Hauff
+  * [A Wrong Answer or a Wrong Question? An Intricate Relationship between Question Reformulation and Answer Selection in Conversational Question Answering](https://arxiv.org/pdf/2010.06835) by Svitlana Vakulenko, Shayne Longpre, Zhucheng Tu, Raviteja Anantha
+  * *Multi-Task Learning using Dynamic Task Weighting for Conversational Question Answering* by Sarawoot Kongyoung, Craig Macdonald, Iadh Ounis
+
+## EMNLP Findings Presentations
+
+* [Semantically Driven Sentence Fusion: Modeling and Evaluation](https://research.google/pubs/pub49702.pdf) by Eyal Ben-David, Orgad Keller, Eric Malmi, Idan Szpektor, Roi Reichart
+* [Toward Stance-based Personas for Opinionated Dialogues](https://arxiv.org/pdf/2010.03369) by Thomas Scialom, Serra Sinem Tekiroglu, Jacopo Staiano, Marco Guerini
+* [Filtering before Iteratively Referring for Knowledge-Grounded Response Selection in Retrieval-Based Chatbots](https://arxiv.org/pdf/2004.14550) by Jia-Chen Gu, Zhen-Hua Ling, Quan Liu, Zhigang Chen, Xiaodan Zhu
+* *TSDG: Content-aware Neural Response Generation with Two-stage Decoding Process* by Junsheng Kong, Zhicheng Zhong, Yi Cai, Xin Wu, Da Ren
+* [ConveRT: Efficient and Accurate Conversational Representations from Transformers](https://arxiv.org/pdf/1911.03688) by Matthew Henderson, Iñigo Casanueva, Nikola Mrkšić, Pei-Hao Su, Tsung-Hsien Wen, Ivan Vulić
+* [Learning Improvised Chatbots from Adversarial Modifications of Natural Language Feedback](https://arxiv.org/pdf/2010.07261) by Makesh Narsimhan Sreedhar, Kun Ni, Siva Reddy
+* [Joint Turn and Dialogue level User Satisfaction Estimation on Multi-Domain Conversations](https://arxiv.org/pdf/2010.02495) by Praveen Kumar Bodigutla, Aditya Tiwari, Josep Vallas Vargas, Lazaros Polymenakos, Spyros Matsoukas
+* *Making Information Seeking Easier: An Improved Pipeline for Conversational Search* by Vaibhav Kumar, Jamie Callan
+* *SMRT Chatbots: Improving Non-Task-Oriented Dialog with Simulated Multi-Reference Training* by Huda Khayrallah, João Sedoc
+
+## ClariQ Challenge Presentations
+
+* *Clarifying Questions in Conversations with Augmented Syntax Features and Side Information - TAL ML Team's Solution for ConvAI3 Challenge* by Hang Li, Tianqiao Liu, Yu Kang, Guowei Xu, Wenbiao Ding, Zitao Liu
+* *Clarifying Questions for Conversational Search Systems: Team Soda’s Solution for the ClariQ Challenge* by Jian Wang, Wenjie Li
+* *A Clarifying Question Selection System from NTES_ALONG in Convai3 Challenge* by Wenjie Ou, Yue Lin
+
+See [convai.io](http://convai.io) for more information about the challenge.
+
+# Workshop Schedule
+
+Please check [the EMNLP website](https://2020.emnlp.org/schedule) for the latest schedule updates, including the schedle in your timezone.
+
+Below is a preliminary schedule that is subject to change without prior warning.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTim2zwWcRrrZpQAzXA-l2PfiONt332rMhndatIf7ZcntbFzECXbbcqSaYHz465gJwbbgfbiKOgfJXk/pubhtml?gid=2035305167&amp;single=true&amp;widget=true&amp;headers=false"  width="1200" height="600" frameborder="1" marginheight="0" marginwidth="0"></iframe>
+
