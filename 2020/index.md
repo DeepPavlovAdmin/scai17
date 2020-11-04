@@ -57,8 +57,8 @@ interactions with the agent — how will it affect existing models?)
   * Submission deadline: ~~August 15, 2020~~ August 30, 2020
   * _Retraction deadline for papers accepted to for the main EMNLP conference: September 15, 2020_
   * Notification of acceptance: ~~September 29, 2020~~ October 2, 2020
-  * Camera-ready deadline: **October 10, 2020**
-  * Workshop: November 19, 2020
+  * Camera-ready deadline: ~~October 10, 2020~~
+  * Workshop: **November 19, 2020**
 
 # Organizers
   * [Jeff Dalton](http://www.dcs.gla.ac.uk/~jeff/), *University of Glasgow*, Glasgow
