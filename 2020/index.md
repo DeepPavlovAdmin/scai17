@@ -75,18 +75,25 @@ interactions with the agent — how will it affect existing models?)
 ## Invited Speakers
 * [Y-Lan Boureau](https://research.fb.com/people/boureau-y-lan/), Facebook AI Research
   * **Title:** Better-behaved Conversational Agents
+  * [[recording]](https://slideslive.com/38940058)
 * [Thomas Wolf](https://thomwolf.io), Hugging Face
   * **Title:** Transfer Learning and tools for Conversational Agents
+  * [[recording]](https://slideslive.com/38940060)
 * [Verena Rieser](https://sites.google.com/site/verenateresarieser/), Heriot Watt University
-  * **Title:** Response Generation and Retrieval for Multimodal Conversational AI (TBC)
+  * **Title:** Response Generation and Retrieval for Multimodal Conversational AI
+  * [[recording]](https://slideslive.com/38940054)
 * [Ivan Vulic](https://www.linkedin.com/in/ivan-vulić-286b4a81), PolyAI
-  * **Title:** Data-Efficient Natural Language Understanding for Task-Oriented Dialogue 
+  * **Title:** Data-Efficient Natural Language Understanding for Task-Oriented Dialogue
+  * [[recording]](https://slideslive.com/38940055/dataefficient-natural-language-understanding-for-taskoriented-dialogue)
 * [Sungjin Lee](https://www.linkedin.com/in/sungjinlee/), Amazon
   * **Title:** Towards Self-Learning for Large Scale Conversational Agents
+  * [[recording]](https://slideslive.com/38940056/towards-selflearning-fo-largescale-conversational-intelligence)
 * [Jason Weston](https://ai.facebook.com/people/jason-weston/), Facebook AI Research
   * **Title:** BlenderBot, Knowledge and Search
+  * [[recording]](https://slideslive.com/38940057/blenderbot-knowledge-search)
 * [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie-en/), Université de Montréal
   * **Title:** Smooth Training for Open-Domain Question Answering
+  * [[recording]](https://slideslive.com/38940059/smooth-training-for-opendomain-question-answering)
 
 ## Accepted Papers
   * [Slice-Aware Neural Ranking](https://arxiv.org/pdf/2010.03343) by Gustavo Penha, Claudia Hauff
@@ -107,9 +114,9 @@ interactions with the agent — how will it affect existing models?)
 
 ## ClariQ Challenge Presentations
 
-* *Clarifying Questions in Conversations with Augmented Syntax Features and Side Information - TAL ML Team's Solution for ConvAI3 Challenge* by Hang Li, Tianqiao Liu, Yu Kang, Guowei Xu, Wenbiao Ding, Zitao Liu
-* *Clarifying Questions for Conversational Search Systems: Team Soda’s Solution for the ClariQ Challenge* by Jian Wang, Wenjie Li
-* *A Clarifying Question Selection System from NTES_ALONG in Convai3 Challenge* by Wenjie Ou, Yue Lin
+* *Clarifying Questions in Conversations with Augmented Syntax Features and Side Information - TAL ML Team's Solution for ConvAI3 Challenge* by Hang Li, Tianqiao Liu, Yu Kang, Guowei Xu, Wenbiao Ding, Zitao Liu [[recording]](https://slideslive.com/38940067/clarifying-questions-in-conversations-with-augmented-syntax-features-and-side-information) 
+* *Clarifying Questions for Conversational Search Systems: Team Soda’s Solution for the ClariQ Challenge* by Jian Wang, Wenjie Li [[recording]](https://slideslive.com/38940068/clarifying-questions-for-conversational-search-systems-team-sodas-solution-for-the-clariq-challenge)
+* *A Clarifying Question Selection System from NTES_ALONG in Convai3 Challenge* by Wenjie Ou, Yue Lin [[recording]](https://slideslive.com/38940070/a-clarifying-question-selection-system-from-ntesalong-in-convai3-challenge)
 
 See [convai.io](http://convai.io) for more information about the challenge.
 
