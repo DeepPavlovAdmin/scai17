@@ -96,9 +96,9 @@ interactions with the agent — how will it affect existing models?)
   * [[recording]](https://slideslive.com/38940059/smooth-training-for-opendomain-question-answering)
 
 ## Accepted Papers
-  * [Slice-Aware Neural Ranking](https://arxiv.org/pdf/2010.03343) by Gustavo Penha, Claudia Hauff [[paper page]](https://virtual.2020.emnlp.org/paper_WS-4.paper1.html) [[recording]](https://www.screencast.com/t/7SHUj3vY) [rocket.chat: [#paper-scai-paper1](https://emnlp2020.rocket.chat/channel/paper-scai-paper1)]
+  * [Slice-Aware Neural Ranking](https://arxiv.org/pdf/2010.03343) by Gustavo Penha, Claudia Hauff [[paper page]](https://virtual.2020.emnlp.org/paper_WS-4.2020.scai-1.1.html) [[recording]](https://www.screencast.com/t/7SHUj3vY) [rocket.chat: [#paper-scai-1](https://emnlp2020.rocket.chat/channel/paper-scai-1)]
   * [A Wrong Answer or a Wrong Question? An Intricate Relationship between Question Reformulation and Answer Selection in Conversational Question Answering](https://arxiv.org/pdf/2010.06835) by Svitlana Vakulenko, Shayne Longpre, Zhucheng Tu, Raviteja Anantha  [[paper page]](https://virtual.2020.emnlp.org/paper_WS-4.paper2.html) [[recording]](https://slideslive.com/38940062) [rocket.chat: [#paper-scai-paper2](https://emnlp2020.rocket.chat/channel/paper-scai-paper2)]
-  * [Multi-Task Learning using Dynamic Task Weighting for Conversational Question Answering](https://www.aclweb.org/anthology/2020.scai-1.3.pdf) by Sarawoot Kongyoung, Craig Macdonald, Iadh Ounis [[recording]](https://www.screencast.com/t/vHsFmjTVHq) 
+  * [Multi-Task Learning using Dynamic Task Weighting for Conversational Question Answering](https://www.aclweb.org/anthology/2020.scai-1.3.pdf) by Sarawoot Kongyoung, Craig Macdonald, Iadh Ounis [[paper page]](https://virtual.2020.emnlp.org/paper_WS-4.2020.scai-1.3.html#) [[recording]](https://www.screencast.com/t/vHsFmjTVHq) [rocket.chat: [#paper-scai-3](https://emnlp2020.rocket.chat/channel/paper-scai-3)]
 
 ## EMNLP Findings Presentations
 
